@@ -13,10 +13,10 @@
 
 <title>Teaching</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/spacelab.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -57,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -246,7 +250,7 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Academic
      
     <span class="caret"></span>
@@ -290,7 +294,14 @@ $(document).ready(function () {
 
 
 <ul>
-<li>Current Semester (January to May, 2022)
+<li>Current Semester
+<ul>
+<li><a href="ma683.html" target="_blank">MA 683: Probability
+Theory</a></li>
+<li><a href="ma323.html" target="_blank">MA 323: Monte Carlo
+Simulation</a> (Jointly with Dr. A. K. Dey)</li>
+</ul></li>
+<li>Semester: January to May, 2022
 <ul>
 <li>MA 324: Statistical Inference and Multivariate Analysis</li>
 </ul></li>
@@ -312,12 +323,14 @@ $(document).ready(function () {
 </ul></li>
 <li>Semester: July to November, 2019
 <ul>
-<li>MA 225: Probability Theory and Random Processes (Jointly with Dr. S Saha)</li>
+<li>MA 225: Probability Theory and Random Processes (Jointly with Dr. S
+Saha)</li>
 </ul></li>
 <li>Semester: January to May, 2019
 <ul>
 <li>MA 212M: Mathematical Statistics</li>
-<li>MA 226: Monte Carlo Simulation (Jointly with Prof. SP Chakrabarty)</li>
+<li>MA 226: Monte Carlo Simulation (Jointly with Prof. SP
+Chakrabarty)</li>
 </ul></li>
 <li>Semester: July to November, 2018
 <ul>
