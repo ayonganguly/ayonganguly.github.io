@@ -13,7 +13,7 @@
 
 <title>Education</title>
 
-<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -246,29 +246,17 @@ $(document).ready(function () {
         <li>
   <a href="index.html">Home</a>
 </li>
-<li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    Academic
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="pub.html">Publications</a>
-    </li>
-    <li>
-      <a href="stud.html">Student Supervision</a>
-    </li>
-    <li>
-      <a href="education.html">Educational Details</a>
-    </li>
-    <li>
-      <a href="works.html">Work Experiences</a>
-    </li>
-  </ul>
+<li>
+  <a href="acad.html">Academics</a>
+</li>
+<li>
+  <a href="pub.html">Publications</a>
 </li>
 <li>
   <a href="teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="stud.html">Student Supervision</a>
 </li>
 <li>
   <a href="contact.html">Contact</a>
@@ -291,13 +279,35 @@ $(document).ready(function () {
 
 
 <ul>
-<li>PhD in Statistics (2013), Department of Mathematics and Statistics, IIT Kanpur, Kanpur - 208 016, India. <a href="thesis.pdf" target="_blank">Thesis</a></li>
-<li>Master of science in Statistics (2008), Department of Mathematics and Statistics, IIT Kanpur, Kanpur - 208 016, India.</li>
-<li>Bachelor of science in Statistics (2006), Department of Statistics, Maulana Azad College, Kolkata - 700 013, India.</li>
-<li>Higher Secondary Examination (2003), West Bengal Council of Higher Secondary Examination, India.</li>
-<li>Secondary (Madhyamik) Examination (2001), West Bengal Board of Secondary Education, India.</li>
+<li>PhD in Statistics (2013), Department of Mathematics and Statistics,
+IIT Kanpur, Kanpur - 208 016, India. <a href="thesis.pdf"
+target="_blank">Thesis</a></li>
+<li>Master of science in Statistics (2008), Department of Mathematics
+and Statistics, IIT Kanpur, Kanpur - 208 016, India.</li>
+<li>Bachelor of science in Statistics (2006), Department of Statistics,
+Maulana Azad College, Kolkata - 700 013, India.</li>
+<li>Higher Secondary Examination (2003), West Bengal Council of Higher
+Secondary Examination, India.</li>
+<li>Secondary (Madhyamik) Examination (2001), West Bengal Board of
+Secondary Education, India.</li>
 </ul>
 
+<!DOCTYPE html>
+<html>
+
+   <body onload="myFunction()">
+      <hr>
+      <span style="font-size: 0.7em;">The page is updated on  <span id="demo"></span></span>
+
+      <script>
+         function myFunction() {
+            var x = document.lastModified;
+            document.getElementById("demo").innerHTML = x;
+         }
+      </script>
+   </body>
+
+</html>
 
 
 

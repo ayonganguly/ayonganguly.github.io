@@ -13,7 +13,7 @@
 
 <title>Ayon Ganguly</title>
 
-<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -246,29 +246,17 @@ $(document).ready(function () {
         <li>
   <a href="index.html">Home</a>
 </li>
-<li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    Academic
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="pub.html">Publications</a>
-    </li>
-    <li>
-      <a href="stud.html">Student Supervision</a>
-    </li>
-    <li>
-      <a href="education.html">Educational Details</a>
-    </li>
-    <li>
-      <a href="works.html">Work Experiences</a>
-    </li>
-  </ul>
+<li>
+  <a href="acad.html">Academics</a>
+</li>
+<li>
+  <a href="pub.html">Publications</a>
 </li>
 <li>
   <a href="teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="stud.html">Student Supervision</a>
 </li>
 <li>
   <a href="contact.html">Contact</a>
@@ -291,8 +279,23 @@ $(document).ready(function () {
 
 
 <p><img src="./images/me-croped.JPG#right" style="width:10em" /></p>
-<p>I am an assistant professor at the <a href="https://www.iitg.ac.in/maths/" target="_blank">Department of Mathematics</a>, <a href="https://www.iitg.ac.in/" target="_blank">Indian Institute of Technology Guwahati</a>. Before moving to Guwahati, I worked as assistant professor at <a href="https://www.iiita.ac.in/" target="_blank">Indian Institute of Information Technology, Allahabad</a>. I did my PhD in Statistics from the <a href="https://www.iitk.ac.in/math/" target="_blank">Department of Mathematics and Statistics</a>, <a href="https://www.iitk.ac.in/" target="_blank">Indian Institute of Technology Kanpur</a>, under the supervison of <a href="http://home.iitk.ac.in/~kundu/kundu.html" target="_blank">Prof. Debasis Kundu</a> and <a href="http://home.iitk.ac.in/~smitra/" target="_blank">Prof. Sharmishtha Mitra</a>.</p>
-<p>I work in borad area of reliability and survival analysis. I am interested in censored data, truncated data, competing risks data, data obtained from accelerated life tests.</p>
+<p>I am an assistant professor at the <a
+href="https://www.iitg.ac.in/maths/" target="_blank">Department of
+Mathematics</a>, <a href="https://www.iitg.ac.in/"
+target="_blank">Indian Institute of Technology Guwahati</a>. Before
+moving to Guwahati, I worked as assistant professor at <a
+href="https://www.iiita.ac.in/" target="_blank">Indian Institute of
+Information Technology, Allahabad</a>. I did my PhD in Statistics from
+the <a href="https://www.iitk.ac.in/math/" target="_blank">Department of
+Mathematics and Statistics</a>, <a href="https://www.iitk.ac.in/"
+target="_blank">Indian Institute of Technology Kanpur</a>, under the
+supervison of <a href="http://home.iitk.ac.in/~kundu/kundu.html"
+target="_blank">Prof. Debasis Kundu</a> and <a
+href="http://home.iitk.ac.in/~smitra/" target="_blank">Prof. Sharmishtha
+Mitra</a>.</p>
+<p>I work in borad area of reliability and survival analysis. I am
+interested in censored data, truncated data, competing risks data, data
+obtained from accelerated life tests.</p>
 <!-- :::: {style="display: flex;"} -->
 <!--  -->
 <!-- ::: {} -->
@@ -318,6 +321,22 @@ $(document).ready(function () {
 <!-- 10:1  # in the reverse order -->
 <!-- ``` -->
 
+<!DOCTYPE html>
+<html>
+
+   <body onload="myFunction()">
+      <hr>
+      <span style="font-size: 0.7em;">The page is updated on  <span id="demo"></span></span>
+
+      <script>
+         function myFunction() {
+            var x = document.lastModified;
+            document.getElementById("demo").innerHTML = x;
+         }
+      </script>
+   </body>
+
+</html>
 
 
 
