@@ -1,5 +1,5 @@
 name: "my-website"
-output_dir: "./../site/"
+output_dir: "./../docs/"
 navbar:
   title: "Ayon's Personal Website"
   left:
