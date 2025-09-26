@@ -1,0 +1,5 @@
+library(rmarkdown)
+# setwd(dir="~/webpage/source/")
+# render_site("~/webpage/source/pub.Rmd")
+# render_site("~/webpage/source/teaching.Rmd")
+render_site("~/Dropbox/Untitled Folder/source/teaching.Rmd")
