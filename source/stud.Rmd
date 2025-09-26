@@ -1,0 +1,54 @@
+---
+title: "Students"
+---
+
+# PhD Students
+
+  1. Ms. Shilpi Biswas (2019 - Present): She is working on statistical modeling
+     of load sharing systems.
+  1. Mr. Sourav Saha (2022 - Present): He is working on statistical analysis of
+     left truncated right censored bivariate data.
+  1. Mr. Arpan Sanyal (2023 - Present): He is working on AUC estimation for a ROC.
+
+
+# MSc Students
+
+  1. Ms. Shivika Rani (2025). Project Title: GLMs: Bridging linear and
+     non-linear models (Reading project)
+  1. Mr. Aniket Chaudhary (2025). Project Title: Central limit theorems (Reading
+     project)
+  1. Mr. Arvind Kumar (2024). Project Title: Survival analysis using Cox
+     regression model (Reading project).
+  1. Mr. Saneilie Keyho (2024). Project Title: Kaplan-meier estimator and its
+     application (Reading project).
+  1. Mr. Nilmadhab Tewari (2023). Project Title: Theoretical foundations and
+     properties of copula.
+  1. Ms. Priyanka Singh (2023). Project Title: On one shot device testing.
+  1. Ms. Deepika (2020). Project Title: Lifetime data analysis.
+  1. Mr. Arijit Roy (2018). Project Title: Discriminating among different
+     models for step-stress life test.
+  1. Mr. Santanu Datta (2017). Project Title: Bayesian analysis of simple
+     step-stress tampered random variable model under generalized
+     exponential lifetimes.
+
+
+# BTech Students
+
+  1. Mr. Lakshya Kohli and Mr. Daksh Raj (2024 - 2025). Project Title: Bayesian
+     analysis of left truncated and right censored data using splines.
+  1. Mr. Harshul Gupta and Mr. Harsh (2023 - 2024). Project Title: Improving
+     Bayesian estimation for censored data with Weibull model using modified
+     SMOTE.
+  1. Mr. Dasari Sainaren and Mr. Mandala Yatish Ramkumar (2022 - 2023). Project
+     Title: Bayesian sampling plan for the Weibull distribution with generalized
+     Type-I hybrid censoring scheme.
+  1. Mr. Kaushal Chhalani and Mr. Manav Chirania (2021 - 2022). Project
+     Title: Bayesian analysis of left truncated right censored data in the
+     presence of dependent competing risks.
+  1. Mr. Aakash Agarwal (2019 - 2020). Project Title: Step-stress analysis
+     in the presence of lag effect for log-normal lifetimes.
+  1. Mr. Abhishek Dogra and Mr. Animesh Kumar (2019 - 2020). Project Title:
+     Analysis of left truncated right censored data in the presence of
+     dependent competing risks.
+  1. Mr. Akash Mahalik and Mr. Tarun Genwa (2018 - 2019). Project Title:
+     Reliability dimention in review platform Yelp.

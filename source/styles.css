@@ -1,0 +1,30 @@
+blockquote {
+  font-style: italic
+}
+
+/* Whole document: */
+body{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14pt;
+  color: rgb(50,50,50);
+  background-color: white;
+}
+
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-size: 24pt;
+}
+
+img[src*='#left'] {
+    float: left;
+}
+
+img[src*='#right'] {
+    float: right;
+}
+
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
+

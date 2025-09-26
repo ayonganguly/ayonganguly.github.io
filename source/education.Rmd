@@ -1,0 +1,14 @@
+---
+title: "Education"
+---
+
+* PhD in Statistics (2013), Department of Mathematics and Statistics, IIT
+  Kanpur, Kanpur - 208 016, India. [Thesis](thesis.pdf){target="_blank"}
+* Master of science in Statistics (2008), Department of Mathematics and
+  Statistics, IIT Kanpur, Kanpur - 208 016, India.
+* Bachelor of science in Statistics (2006), Department of Statistics,
+  Maulana Azad College, Kolkata - 700 013, India.
+* Higher Secondary Examination (2003), West Bengal Council of Higher
+  Secondary Examination, India.
+* Secondary (Madhyamik) Examination (2001), West Bengal Board of Secondary
+  Education, India.

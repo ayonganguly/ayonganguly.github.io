@@ -1,0 +1,53 @@
+---
+title: "Teaching"
+---
+
+# {.tabset .tabset-fade}
+
+## Current Semester
+* MA 589: Statistical Foundation for Data Science
+* [MA 1503H/MA 1509H: Multi Variable Calculus](mvc.html)
+
+## Previous Semesters
+* Semester: January to May, 2025
+  + MA 690: Understanding Statistical Learning Theory
+  + MA 588: R Programming Lab (Jointly with Dr. P. Ghosh)
+* Semester: July to November, 2024
+  + MA 589: Statistical Foundation for Data Science
+  + MA 323: Monte Carlo Simulation (Jointly with Prof. N. Selvaraju)
+* Semester: January to May, 2024
+  + MA 682: Statistical Inference
+* Semester: July to November, 2023
+  + MA 101: Mathematics I (Jointly with Dr. S. Saha, Prof J. C. Kalita, and Dr. S. Upadhyay)
+* Semester: January to May, 2023
+  + MA 590: Probability Theory
+  + MA 594: Statistical Decision Theory 
+* Semester: July to November, 2022
+  + MA 683: Probability Theory
+  + MA 323: Monte Carlo Simulation (Jointly with Dr. A. K. Dey)
+* Semester: January to May, 2022
+  + MA 324: Statistical Inference and Multivariate Analysis
+* Semester: July to November, 2021
+  + MA 323: Monte Carlo Simulation
+* Semester: January to May, 2021
+  + MA 324: Statistical Inference and Multivariate Analysis
+* Semester: September to December, 2020
+  + MA 225: Probability Theory and Random Processes
+* Semester: January to May, 2020
+  + MA 212M: Mathematical Statistics
+* Semester: July to November, 2019
+  + MA 225: Probability Theory and Random Processes (Jointly with Dr. S. Saha)
+* Semester: January to May, 2019
+  + MA 212M: Mathematical Statistics
+  + MA 226: Monte Carlo Simulation (Jointly with Prof. S. P. Chakrabarty)
+* Semester: July to November, 2018
+  + MA 471: Statistical Analysis of Financial Data
+* Semester: January to May, 2018
+  + MA 590: Probability Theory
+  + MA 212M: Mathematical Statistics (Jointly with Dr. S. Kamal)
+* Semester: July to November, 2017
+  + MA 593: Statistical Methods and Time Series Analysis
+* Semester: January to May, 2017
+  + MA 212M: Mathematical Statistics
+* Semester: July to November, 2016
+  + MA 593: Statistical Methods and Time Series Analysis

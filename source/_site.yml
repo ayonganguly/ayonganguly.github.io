@@ -1,0 +1,24 @@
+name: "my-website"
+output_dir: "./../site/"
+navbar:
+  title: "Ayon's Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Academics"
+      href: acad.html
+    - text: "Publications"
+      href: pub.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Student Supervision"
+      href: stud.html
+    - text: "Contact"
+      href: contact.html
+output:
+  html_document:
+    highlight: textmate
+    theme: lumen
+    include:
+      after_body: footer.html
+    css: styles.css
