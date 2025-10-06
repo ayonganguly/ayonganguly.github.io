@@ -8,6 +8,7 @@ title: "MA 1503H/MA 1509H : Multi-variable Calculus"
 * [Lecture 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EZFcq2zMDEtEsZWNVOiz9GABwNFYWoduwVTaIC_xt0vQ-A?e=CbXIuV)
 * [Lecture 02](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EesTa2BlE5lOs_rDmblnL3wBE-5J0YtkfedTIp-D6rPOfg?e=PWicbo)
 * [Lecture 03](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ed6o-cNUfMlKkhvJB0b_CCQBKcuR6H9RybTeb5Q1usaG3Q?e=8ytxoG)
+* [Lecture 04](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EcboVAm9Ky1Nvg679wt5XwMBpHsFLUxua6Tw_l8IBq2Ukw?e=XOlbZe)
 
 ---
 
