@@ -14,6 +14,7 @@ title: "MA 1503H/MA 1509H : Multi-variable Calculus"
 * [Lecture 07](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ET11hx8bGBpDoYAsc2CJty0B_dpQwC1uHlF9IA_cGV0TKA?e=dQcEIV)
 * [Lecture 08](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EXCcu9oFes5Fgw1RxHqWSAkBCJgGc2sIflJuUG8xuvZZew?e=yJE4u4)
 * [Lecture 09](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Eexy2QrgFgROmIGzum7XzqUBAS0TsmkyZiL1wseS02bd_Q?e=zeoBeO)
+* [Lecture 10](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EQYOPGh83FlGtlWNxnSw6lMBYSKZWpco4AmWN5ccpdwiNA?e=LuPRxp)
 
 ---
 
@@ -21,6 +22,7 @@ title: "MA 1503H/MA 1509H : Multi-variable Calculus"
 * [Tutorial 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ETmrsu8EcydPm1_FEUq3nsMBZYyUBpLUPMTu8aR8f3F3_g?e=7ydaME)
 * [Tutorial 02](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ESDcSpoPSqpJrdmWquZDDMMBdAiZKPb7NmOhbWijYs3gBg?e=a5ReLm)
 * [Tutorial 03](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Edche4DQgLdFjKcYE3m6HHUBFBpe4QkywXW7JqbXg1ZPgQ?e=eg9sah)
+* [Tutorial 04](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ee_HRhn3MENAj5ph8alVrAsBke6elHXUz-i-KwkvR7MZfw?e=tVBk0z)
 
 <!-- * [Problem Set 02](./MA682/ProblemSets/P02.pdf) -->
 <!-- * [Problem Set 03](./MA682/ProblemSets/P03.pdf) -->
