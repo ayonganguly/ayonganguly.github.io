@@ -1,5 +1,3 @@
 library(rmarkdown)
-# setwd(dir="~/webpage/source/")
-# render_site("~/webpage/source/pub.Rmd")
-# render_site("~/webpage/source/teaching.Rmd")
 render_site("./source/mvc.Rmd")
+# render_site("./source/stud.Rmd")
