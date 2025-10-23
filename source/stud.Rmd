@@ -5,7 +5,7 @@ title: "Students"
 # PhD Students
 
   1. Ms. Shilpi Biswas (2019 - Present): She is working on statistical modeling
-     of load sharing systems.
+     of load sharing systems. She submitted her thesis.
   1. Mr. Sourav Saha (2022 - Present): He is working on statistical analysis of
      left truncated right censored bivariate data.
   1. Mr. Arpan Sanyal (2023 - Present): He is working on AUC estimation for a ROC.
