@@ -34,6 +34,7 @@ title: "MA 1503H/MA 1509H : Multi-variable Calculus"
 * [Tutorial 04](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ee_HRhn3MENAj5ph8alVrAsBke6elHXUz-i-KwkvR7MZfw?e=tVBk0z)
 * [Tutorial 05](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EWyyp9i1ru1Frj48XtWkRSUBQKei_yzD4M9TO9rXSHWD7g?e=HpR5uI)
 * [Tutorial 06](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ec21IaAO7KJOi2-CfivFm-8BBvXhDC9BhQ06E9URujMhxA?e=J1kSj4)
+* [Tutorial 07](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBeUQPKYVsuQ4GCDiLw-8dxARGdL2NTtZnzOzgrStWdlSU?e=5t11aO)
 
 <!-- * [Problem Set 02](./MA682/ProblemSets/P02.pdf) -->
 <!-- * [Problem Set 03](./MA682/ProblemSets/P03.pdf) -->
