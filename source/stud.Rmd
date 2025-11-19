@@ -4,12 +4,21 @@ title: "Students"
 
 # PhD Students
 
-  1. Ms. Shilpi Biswas (2019 - Present): She is working on statistical modeling
-     of load sharing systems. She submitted her thesis.
-  1. Mr. Sourav Saha (2022 - Present): He is working on statistical analysis of
-     left truncated right censored bivariate data.
-  1. Mr. Arpan Sanyal (2023 - Present): He is working on AUC estimation for a ROC.
+  1. Dr. Shilpi Biswas (July 2019 - October 2025): Area: Statistical modeling
+     of load sharing systems. Current Position: Visiting Scientist, ISI Kolkata.
+  1. Mr. Sourav Saha (July 2022 - Present): Area: Statistical analysis of
+     bivariate left truncated right censored data.
+  1. Mr. Arpan Sanyal (July 2023 - Present): Area: AUC estimation for a ROC.
 
+<!-- # ```{r table2, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'} -->
+<!-- # tabl <- " -->
+<!-- # | Sl. No. | Name | Duration of PhD | Area of PhD thesis | Current Position | -->
+<!-- # |:--------|:----:|----------------:|-------------------:|-----------------:| -->
+<!-- # | 1. | Dr. Shilpi Biswas | July 2019 to October 2025 | Statistical modeling of load-sharing systems | Visiting Scientist, ISI Kolkata | -->
+<!-- # | 2. | Mr. Sourav Saha | July 2022 to present | Statistical analysis of bivariate left truncated and right censored data | | -->
+<!-- # | 3. | Mr. Arpan Sanyal | July 2023 to present | Estimation of AUC of ROC | |" -->
+<!-- # cat(tabl) -->
+<!-- # ``` -->
 
 # MSc Students
 
@@ -34,6 +43,9 @@ title: "Students"
 
 # BTech Students
 
+  1. Ms. Ramineni Hardhika and Mohd Fahad Javed (2025-2026). Project Title:
+     Application of Bayesian Logistic Regression to Biomedical Data for
+     Modelling Heart Attack Risk. 
   1. Mr. Lakshya Kohli and Mr. Daksh Raj (2024 - 2025). Project Title: Bayesian
      analysis of left truncated and right censored data using splines.
   1. Mr. Harshul Gupta and Mr. Harsh (2023 - 2024). Project Title: Improving
