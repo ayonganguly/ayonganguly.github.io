@@ -29,8 +29,7 @@ output:
   html_document:
     highlight: textmate
     theme: cosmo
-    toc: true
-    toc_float: true
+    toc: false
     include:
       after_body: footer.html
     css: styles.css
