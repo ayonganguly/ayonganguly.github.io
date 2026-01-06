@@ -1,53 +1,45 @@
 ---
-title: "Teaching"
+title: "Teaching Experience"
+output:
+  html_document:
+    toc: false
 ---
 
-# {.tabset .tabset-fade}
+<br>
 
-## Current Semester
-* MA 589: Statistical Foundation for Data Science
-* [MA 1503H/MA 1509H: Multi Variable Calculus](mvc.html)
+# Current Semester
 
-## Previous Semesters
-* Semester: January to May, 2025
-  + MA 690: Understanding Statistical Learning Theory
-  + MA 588: R Programming Lab (Jointly with Dr. P. Ghosh)
-* Semester: July to November, 2024
-  + MA 589: Statistical Foundation for Data Science
-  + MA 323: Monte Carlo Simulation (Jointly with Prof. N. Selvaraju)
-* Semester: January to May, 2024
-  + MA 682: Statistical Inference
-* Semester: July to November, 2023
-  + MA 101: Mathematics I (Jointly with Dr. S. Saha, Prof J. C. Kalita, and Dr. S. Upadhyay)
-* Semester: January to May, 2023
-  + MA 590: Probability Theory
-  + MA 594: Statistical Decision Theory 
-* Semester: July to November, 2022
-  + MA 683: Probability Theory
-  + MA 323: Monte Carlo Simulation (Jointly with Dr. A. K. Dey)
-* Semester: January to May, 2022
-  + MA 324: Statistical Inference and Multivariate Analysis
-* Semester: July to November, 2021
-  + MA 323: Monte Carlo Simulation
-* Semester: January to May, 2021
-  + MA 324: Statistical Inference and Multivariate Analysis
-* Semester: September to December, 2020
-  + MA 225: Probability Theory and Random Processes
-* Semester: January to May, 2020
-  + MA 212M: Mathematical Statistics
-* Semester: July to November, 2019
-  + MA 225: Probability Theory and Random Processes (Jointly with Dr. S. Saha)
-* Semester: January to May, 2019
-  + MA 212M: Mathematical Statistics
-  + MA 226: Monte Carlo Simulation (Jointly with Prof. S. P. Chakrabarty)
-* Semester: July to November, 2018
-  + MA 471: Statistical Analysis of Financial Data
-* Semester: January to May, 2018
-  + MA 590: Probability Theory
-  + MA 212M: Mathematical Statistics (Jointly with Dr. S. Kamal)
-* Semester: July to November, 2017
-  + MA 593: Statistical Methods and Time Series Analysis
-* Semester: January to May, 2017
-  + MA 212M: Mathematical Statistics
-* Semester: July to November, 2016
-  + MA 593: Statistical Methods and Time Series Analysis
+## **MA 212M: Mathematical Statistics**
+* **Link:** [Course Page](ma212m.html)
+<!-- * **Description:** This course covers fundamental concepts of statistical inference... [Optional: Add brief description here] -->
+
+<br>
+<hr>
+<br>
+
+# Course History
+
+Below is a summary of courses taught, grouped by course code.
+
+| Course Code | Course Title | Semesters (Co-Instructors) |
+|:---|:---|:---|
+| MA 101 | Mathematics I | Jul - Nov 2023 (with Dr. S. Saha, Prof. J. C. Kalita, Dr. S. Upadhyay) |
+| MA 212M | Mathematical Statistics | Jan - May 2020<br>Jan - May 2019<br>Jan - May 2018 (with Dr. S. Kamal)<br>Jan - May 2017 |
+| MA 225 | Probability Theory and Random Processes | Sep - Dec 2020<br>Jul - Nov 2019 (with Dr. S. Saha) |
+| MA 226 | Monte Carlo Simulation | Jan - May 2019 (with Prof. S. P. Chakrabarty) |
+| MA 323 | Monte Carlo Simulation | Jul - Nov 2024 (with Prof. N. Selvaraju)<br>Jul - Nov 2022 (with Dr. A. K. Dey)<br>Jul - Nov 2021 |
+| MA 324 | Statistical Inference & Multivariate Analysis | Jan - May 2022<br>Jan - May 2021 |
+| MA 471 | Statistical Analysis of Financial Data | Jul - Nov 2018 |
+| MA 588 | R Programming Lab | Jan - May 2025 (with Dr. P. Ghosh) |
+| MA 589 | Statistical Foundation for Data Science | Jul - Nov 2025<br>Jul - Nov 2024 |
+| MA 590 | Probability Theory | Jan - May 2023<br>Jan - May 2018 |
+| MA 593 | Statistical Methods and Time Series Analysis | Jul - Nov 2017<br>Jul - Nov 2016 |
+| MA 594 | Statistical Decision Theory | Jan - May 2023 |
+| MA 682 | Statistical Inference | Jan - May 2024 |
+| MA 683 | Probability Theory | Jul - Nov 2022 |
+| MA 690 | Understanding Statistical Learning Theory | Jan - May 2025 |
+| MA 1503H / 1509H | Multi Variable Calculus | Jul - Nov 2025 |
+
+<script>
+  $("table").addClass("table table-striped table-hover table-condensed");
+</script>

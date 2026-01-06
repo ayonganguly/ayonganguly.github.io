@@ -13,10 +13,10 @@
 
 <title>MA 1503H/MA 1509H : Multi-variable Calculus</title>
 
-<script src="site_libs/header-attrs-2.26/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -29,9 +29,14 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -220,6 +225,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -227,6 +295,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -239,31 +317,60 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Ayon's Personal Website</a>
+      <a class="navbar-brand" href="index.html">Ayon Ganguly</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">Home</a>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
 </li>
 <li>
-  <a href="acad.html">Academics</a>
+  <a href="acad.html">
+    <span class="fa fa-graduation-cap"></span>
+     
+    Academics
+  </a>
 </li>
 <li>
-  <a href="pub.html">Publications</a>
+  <a href="pub.html">
+    <span class="fa fa-book-open"></span>
+     
+    Publications
+  </a>
 </li>
 <li>
-  <a href="teaching.html">Teaching</a>
+  <a href="teaching.html">
+    <span class="fa fa-chalkboard-teacher"></span>
+     
+    Teaching
+  </a>
 </li>
 <li>
-  <a href="stud.html">Student Supervision</a>
-</li>
-<li>
-  <a href="contact.html">Contact</a>
+  <a href="stud.html">
+    <span class="fa fa-users"></span>
+     
+    Supervision
+  </a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope"></span>
+     
+    Contact
+  </a>
+</li>
+<li>
+  <a href="https://github.com/ayonganaguly">
+    <span class="fa fa-github"></span>
+     
+  </a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -273,7 +380,8 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">MA 1503H/MA 1509H : Multi-variable Calculus</h1>
+<h1 class="title toc-ignore">MA 1503H/MA 1509H : Multi-variable
+Calculus</h1>
 
 </div>
 
@@ -282,38 +390,90 @@ $(document).ready(function () {
 <div id="lecture-slides" class="section level2">
 <h2>Lecture Slides</h2>
 <ul>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EZFcq2zMDEtEsZWNVOiz9GABwNFYWoduwVTaIC_xt0vQ-A?e=CbXIuV">Lecture 01</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EesTa2BlE5lOs_rDmblnL3wBE-5J0YtkfedTIp-D6rPOfg?e=PWicbo">Lecture 02</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ed6o-cNUfMlKkhvJB0b_CCQBKcuR6H9RybTeb5Q1usaG3Q?e=8ytxoG">Lecture 03</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EcboVAm9Ky1Nvg679wt5XwMBpHsFLUxua6Tw_l8IBq2Ukw?e=XOlbZe">Lecture 04</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Eec_E1I3GKxFs6CgEy_Sq5ABxQGmwImj-Fd8xBgkjy10vQ?e=ZKYJ15">Lecture 05</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EUOgbXJUbK5Br65dqbJ6VSABOqPoZjz-qNzmBMLDyQVb6Q?e=G3rY4X">Lecture 06</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ET11hx8bGBpDoYAsc2CJty0B_dpQwC1uHlF9IA_cGV0TKA?e=dQcEIV">Lecture 07</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EXCcu9oFes5Fgw1RxHqWSAkBCJgGc2sIflJuUG8xuvZZew?e=yJE4u4">Lecture 08</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Eexy2QrgFgROmIGzum7XzqUBAS0TsmkyZiL1wseS02bd_Q?e=zeoBeO">Lecture 09</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EQYOPGh83FlGtlWNxnSw6lMBYSKZWpco4AmWN5ccpdwiNA?e=LuPRxp">Lecture 10</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EX544yZ2-IxAhXz1JL4DzJ4B7l6PQV02QvJdE2J_apjvyw?e=1CUEWv">Lecture 11</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EeDsxA2nHBJNgvCXfnEOVi0Bje_RaZZbqj3WwBB5bgSwOQ?e=WWibOx">Lecture 12</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EdVxqXmJ41lCvpVaN-HQ3ugBQ1B-j1xey4BiowaLQT30FQ?e=fpJKKu">Lecture 13</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EfYRhmsyhi5Jonf4CbGQggEB4fxn6V_38khZH58t92WfRg?e=tnlwaO">Lecture 14</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EUlhKW6nxetBn6x5sv7K_agB4pIqfam733Q_CyPTKCU6_Q?e=XnBMPZ">Lecture 15</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ecf_NUGeQU1JobBox5ahuIIBGKn3Y3PEsQ_LX5VQg4KJSQ?e=y6AgW3">Lecture 16</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EQq7HYfS6aVOvevgb1ZDcpQBj6asvnWlHRXLHtckjW0zww?e=HkLJEJ">Lecture 17</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBmDYLHEF7RT6w1ygczWO8qAX_d73Q_p5grD_GI3W5xC4s?e=SnV2H0">Lecture 18</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAMFQVvtx7MQLojI7OjHnWKAfeCVjF_7Rj6cQSew4m6eP0?e=gsg1gE">Lecture 19</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EZFcq2zMDEtEsZWNVOiz9GABwNFYWoduwVTaIC_xt0vQ-A?e=CbXIuV">Lecture
+01</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EesTa2BlE5lOs_rDmblnL3wBE-5J0YtkfedTIp-D6rPOfg?e=PWicbo">Lecture
+02</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ed6o-cNUfMlKkhvJB0b_CCQBKcuR6H9RybTeb5Q1usaG3Q?e=8ytxoG">Lecture
+03</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EcboVAm9Ky1Nvg679wt5XwMBpHsFLUxua6Tw_l8IBq2Ukw?e=XOlbZe">Lecture
+04</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Eec_E1I3GKxFs6CgEy_Sq5ABxQGmwImj-Fd8xBgkjy10vQ?e=ZKYJ15">Lecture
+05</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EUOgbXJUbK5Br65dqbJ6VSABOqPoZjz-qNzmBMLDyQVb6Q?e=G3rY4X">Lecture
+06</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ET11hx8bGBpDoYAsc2CJty0B_dpQwC1uHlF9IA_cGV0TKA?e=dQcEIV">Lecture
+07</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EXCcu9oFes5Fgw1RxHqWSAkBCJgGc2sIflJuUG8xuvZZew?e=yJE4u4">Lecture
+08</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Eexy2QrgFgROmIGzum7XzqUBAS0TsmkyZiL1wseS02bd_Q?e=zeoBeO">Lecture
+09</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EQYOPGh83FlGtlWNxnSw6lMBYSKZWpco4AmWN5ccpdwiNA?e=LuPRxp">Lecture
+10</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EX544yZ2-IxAhXz1JL4DzJ4B7l6PQV02QvJdE2J_apjvyw?e=1CUEWv">Lecture
+11</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EeDsxA2nHBJNgvCXfnEOVi0Bje_RaZZbqj3WwBB5bgSwOQ?e=WWibOx">Lecture
+12</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EdVxqXmJ41lCvpVaN-HQ3ugBQ1B-j1xey4BiowaLQT30FQ?e=fpJKKu">Lecture
+13</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EfYRhmsyhi5Jonf4CbGQggEB4fxn6V_38khZH58t92WfRg?e=tnlwaO">Lecture
+14</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EUlhKW6nxetBn6x5sv7K_agB4pIqfam733Q_CyPTKCU6_Q?e=XnBMPZ">Lecture
+15</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ecf_NUGeQU1JobBox5ahuIIBGKn3Y3PEsQ_LX5VQg4KJSQ?e=y6AgW3">Lecture
+16</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EQq7HYfS6aVOvevgb1ZDcpQBj6asvnWlHRXLHtckjW0zww?e=HkLJEJ">Lecture
+17</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBmDYLHEF7RT6w1ygczWO8qAX_d73Q_p5grD_GI3W5xC4s?e=SnV2H0">Lecture
+18</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAMFQVvtx7MQLojI7OjHnWKAfeCVjF_7Rj6cQSew4m6eP0?e=gsg1gE">Lecture
+19</a></li>
 </ul>
 <hr />
 </div>
 <div id="problem-sets" class="section level2">
 <h2>Problem Sets</h2>
 <ul>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ETmrsu8EcydPm1_FEUq3nsMBZYyUBpLUPMTu8aR8f3F3_g?e=7ydaME">Tutorial 01</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ESDcSpoPSqpJrdmWquZDDMMBdAiZKPb7NmOhbWijYs3gBg?e=a5ReLm">Tutorial 02</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Edche4DQgLdFjKcYE3m6HHUBFBpe4QkywXW7JqbXg1ZPgQ?e=eg9sah">Tutorial 03</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ee_HRhn3MENAj5ph8alVrAsBke6elHXUz-i-KwkvR7MZfw?e=tVBk0z">Tutorial 04</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EWyyp9i1ru1Frj48XtWkRSUBQKei_yzD4M9TO9rXSHWD7g?e=HpR5uI">Tutorial 05</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ec21IaAO7KJOi2-CfivFm-8BBvXhDC9BhQ06E9URujMhxA?e=J1kSj4">Tutorial 06</a></li>
-<li><a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBeUQPKYVsuQ4GCDiLw-8dxARGdL2NTtZnzOzgrStWdlSU?e=5t11aO">Tutorial 07</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ETmrsu8EcydPm1_FEUq3nsMBZYyUBpLUPMTu8aR8f3F3_g?e=7ydaME">Tutorial
+01</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ESDcSpoPSqpJrdmWquZDDMMBdAiZKPb7NmOhbWijYs3gBg?e=a5ReLm">Tutorial
+02</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Edche4DQgLdFjKcYE3m6HHUBFBpe4QkywXW7JqbXg1ZPgQ?e=eg9sah">Tutorial
+03</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ee_HRhn3MENAj5ph8alVrAsBke6elHXUz-i-KwkvR7MZfw?e=tVBk0z">Tutorial
+04</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EWyyp9i1ru1Frj48XtWkRSUBQKei_yzD4M9TO9rXSHWD7g?e=HpR5uI">Tutorial
+05</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ec21IaAO7KJOi2-CfivFm-8BBvXhDC9BhQ06E9URujMhxA?e=J1kSj4">Tutorial
+06</a></li>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBeUQPKYVsuQ4GCDiLw-8dxARGdL2NTtZnzOzgrStWdlSU?e=5t11aO">Tutorial
+07</a></li>
 </ul>
 <!-- * [Problem Set 02](./MA682/ProblemSets/P02.pdf) -->
 <!-- * [Problem Set 03](./MA682/ProblemSets/P03.pdf) -->
@@ -324,24 +484,30 @@ $(document).ready(function () {
 <!-- * [Problem Set 08](./MA682/ProblemSets/P08.pdf) -->
 </div>
 
-<!DOCTYPE html>
-<html>
+<div class="footer">
+  <hr>
+  <div class="container text-center">
+    <p class="text-muted" style="font-size: 13px;">
+      &copy; <span id="year"></span> Ayon Ganguly. All rights reserved.
+      <br>
+      Developed with R Markdown | <span id="last-updated"></span>
+    </p>
+  </div>
+</div>
 
-   <body onload="myFunction()">
-      <hr>
-      <span style="font-size: 0.7em;">The page is updated on  <span id="demo"></span></span>
+<script>
+  // 1. Auto-update Copyright Year
+  document.getElementById('year').innerHTML = new Date().getFullYear();
 
-      <script>
-         function myFunction() {
-            var x = document.lastModified;
-            document.getElementById("demo").innerHTML = x;
-         }
-      </script>
-   </body>
-
-</html>
+  // 2. Add Last Updated Date
+  // Formats the date nicely (e.g., "January 6, 2026")
+  var x = new Date(document.lastModified);
+  document.getElementById('last-updated').innerHTML = "Last updated: " + x.toLocaleDateString("en-US", { year: 'numeric', month: 'long', day: 'numeric' });
+</script>
 
 
+</div>
+</div>
 
 </div>
 
@@ -374,6 +540,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

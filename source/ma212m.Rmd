@@ -1,0 +1,67 @@
+---
+title: "MA 212M: Mathematical Statistics"
+---
+
+# Course Syllabus
+
+* Probability: Probability spaces, random variables and random vectors,
+  functions of random vectors, univariate and multivariate distributions,
+  mathematical expectations, moment generating functions, convergence in
+  probability and in distribution and related results; Sampling distributions.
+
+* Statistics: Point estimation - estimators, sufficiency, completeness, minimum
+  variance unbiased estimation, maximum likelihood estimation, method of
+  moments, Cramer-Rao inequality, consistency; Interval estimation; Testing of
+  hypotheses - tests and critical regions, Neymann-Pearson lemma, uniformly most
+  powerful tests, likelihood ratio tests; Correlation and linear regression.
+
+<br>
+<hr>
+<br>
+
+# Text Books
+
+* Introduction to Mathematical Statistics by R. V. Hogg, J. W. McKean and A. Craig.
+* Introduction to Probability Models by S. M. Ross.
+
+# Reference Books
+
+* An Introduction to Probability and Statistics by V. K. Rohatgi and A. K. Md. E. Saleh.
+
+<br>
+<hr>
+<br>
+
+# Grading Policy and Examination Dates
+
+Weights in different examinations are as follows:
+
+* **Quiz I:** 15% (February 06 during class)
+* **Mid-semester examination:** 30% (March 07 from 9 am to 11 am)
+* **Quiz II:** 15% (April 10 during class)
+* **End-semester examination:** 40% (May 09 from 9 am to 12 am)
+
+For each examination, linear scaling will be used (if needed).
+
+An F grade will be awarded if you obtain less than 20% of total marks after the end semester examination.
+
+<br>
+<hr>
+<br>
+
+# Course Materials
+
+## Lecture Slides
+
+* [Lecture 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EZFcq2zMDEtEsZWNVOiz9GABwNFYWoduwVTaIC_xt0vQ-A?e=CbXIuV)
+
+<!-- ## Problem Sets -->
+<!--  -->
+<!-- * [Tutorial 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ETmrsu8EcydPm1_FEUq3nsMBZYyUBpLUPMTu8aR8f3F3_g?e=7ydaME) -->
+<!-- * [Tutorial 02](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ESDcSpoPSqpJrdmWquZDDMMBdAiZKPb7NmOhbWijYs3gBg?e=a5ReLm) -->
+<!-- * [Tutorial 03](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Edche4DQgLdFjKcYE3m6HHUBFBpe4QkywXW7JqbXg1ZPgQ?e=eg9sah) -->
+<!-- * [Tutorial 04](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ee_HRhn3MENAj5ph8alVrAsBke6elHXUz-i-KwkvR7MZfw?e=tVBk0z) -->
+<!-- * [Tutorial 05](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/EWyyp9i1ru1Frj48XtWkRSUBQKei_yzD4M9TO9rXSHWD7g?e=HpR5uI) -->
+<!-- * [Tutorial 06](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ec21IaAO7KJOi2-CfivFm-8BBvXhDC9BhQ06E9URujMhxA?e=J1kSj4) -->
+<!-- * [Tutorial 07](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBeUQPKYVsuQ4GCDiLw-8dxARGdL2NTtZnzOzgrStWdlSU?e=5t11aO) -->
+

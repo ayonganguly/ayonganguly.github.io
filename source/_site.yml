@@ -1,24 +1,36 @@
-name: "my-website"
+name: "ayon-ganguly-website"
 output_dir: "./../docs/"
 navbar:
-  title: "Ayon's Personal Website"
+  title: "Ayon Ganguly"
+  type: default
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "Academics"
+      icon: fa-graduation-cap
       href: acad.html
     - text: "Publications"
+      icon: fa-book-open
       href: pub.html
     - text: "Teaching"
+      icon: fa-chalkboard-teacher
       href: teaching.html
-    - text: "Student Supervision"
+    - text: "Supervision"
+      icon: fa-users
       href: stud.html
+  right:
     - text: "Contact"
+      icon: fa-envelope
       href: contact.html
+    - icon: fa-github
+      href: https://github.com/ayonganaguly
 output:
   html_document:
     highlight: textmate
-    theme: lumen
+    theme: cosmo
+    toc: true
+    toc_float: true
     include:
       after_body: footer.html
     css: styles.css

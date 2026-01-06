@@ -1,16 +1,20 @@
-<!DOCTYPE html>
-<html>
+<div class="footer">
+  <hr>
+  <div class="container text-center">
+    <p class="text-muted" style="font-size: 13px;">
+      &copy; <span id="year"></span> Ayon Ganguly. All rights reserved.
+      <br>
+      Developed with R Markdown | <span id="last-updated"></span>
+    </p>
+  </div>
+</div>
 
-   <body onload="myFunction()">
-      <hr>
-      <span style="font-size: 0.7em;">The page is updated on  <span id="demo"></span></span>
+<script>
+  // 1. Auto-update Copyright Year
+  document.getElementById('year').innerHTML = new Date().getFullYear();
 
-      <script>
-         function myFunction() {
-            var x = document.lastModified;
-            document.getElementById("demo").innerHTML = x;
-         }
-      </script>
-   </body>
-
-</html>
+  // 2. Add Last Updated Date
+  // Formats the date nicely (e.g., "January 6, 2026")
+  var x = new Date(document.lastModified);
+  document.getElementById('last-updated').innerHTML = "Last updated: " + x.toLocaleDateString("en-US", { year: 'numeric', month: 'long', day: 'numeric' });
+</script>
