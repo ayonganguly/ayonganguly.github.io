@@ -23,8 +23,8 @@ navbar:
     - text: "Contact"
       icon: fa-envelope
       href: contact.html
-    - icon: fa-github
-      href: https://github.com/ayonganaguly
+    # - icon: fa-github
+    #   href: https://github.com/ayonganaguly
 output:
   html_document:
     highlight: textmate
