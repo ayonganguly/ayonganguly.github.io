@@ -1,5 +1,4 @@
 library(rmarkdown)
-render_site("./source")
 # render_site("./source/teaching.Rmd")
-# render_site("./source/ma212m.Rmd")
+render_site("./source/ma212m.Rmd")
 # render_site("./source/stud.Rmd")
