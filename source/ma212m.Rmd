@@ -61,9 +61,9 @@ An F grade will be awarded if you obtain less than 20% of total marks after the 
 * [Topic 01: Probability](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQA1XlgKZFReS4nXfUrPjoX-AeV9sIJcNLwzHpTtkfRCLBc?e=2TMCHE)
 * [Topic 02: Random Variable](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBLlgzMLTY3S5uBv9vN9ZiJAYzQbfBV8RulKMvcWBDvK1w?e=WDKI8t)
 
-<!-- ## Problem Sets -->
-<!--  -->
-<!-- * [Tutorial 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ETmrsu8EcydPm1_FEUq3nsMBZYyUBpLUPMTu8aR8f3F3_g?e=7ydaME) -->
+## Problem Sets
+
+* [Tutorial 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3)
 <!-- * [Tutorial 02](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/ESDcSpoPSqpJrdmWquZDDMMBdAiZKPb7NmOhbWijYs3gBg?e=a5ReLm) -->
 <!-- * [Tutorial 03](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Edche4DQgLdFjKcYE3m6HHUBFBpe4QkywXW7JqbXg1ZPgQ?e=eg9sah) -->
 <!-- * [Tutorial 04](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/Ee_HRhn3MENAj5ph8alVrAsBke6elHXUz-i-KwkvR7MZfw?e=tVBk0z) -->
