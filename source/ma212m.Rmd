@@ -1,9 +1,11 @@
 ---
 title: "MA 212M: Mathematical Statistics"
-<!-- output: -->
-<!--    html_document: -->
-<!--     toc: true -->
-<!--     toc_float: true -->
+output:
+   html_document:
+    toc: true
+    toc_float: true
+---
+
 ---
 
 # Course Syllabus
@@ -19,9 +21,7 @@ title: "MA 212M: Mathematical Statistics"
   hypotheses - tests and critical regions, Neymann-Pearson lemma, uniformly most
   powerful tests, likelihood ratio tests; Correlation and linear regression.
 
-<br>
-<hr>
-<br>
+---
 
 # Text Books
 
@@ -32,11 +32,9 @@ title: "MA 212M: Mathematical Statistics"
 
 * An Introduction to Probability and Statistics by V. K. Rohatgi and A. K. Md. E. Saleh.
 
-<br>
-<hr>
-<br>
+---
 
-# Grading Policy and Examination Dates
+# Evaluation
 
 Weights in different examinations are as follows:
 
@@ -49,21 +47,17 @@ For each examination, linear scaling will be used (if needed).
 
 An F grade will be awarded if you obtain less than 20% of total marks after the end semester examination.
 
-<br>
-<hr>
-<br>
+---
 
 # Course Materials
 
 ## Lecture Slides
-
 * [Topic 00: Introduction](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBlfjyEkwqmR4Y45B6LGhaAAZdfbbuxolcqz-vY07fuP1c?e=JSc6wp)
 * [Topic 01: Probability](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQA1XlgKZFReS4nXfUrPjoX-AeV9sIJcNLwzHpTtkfRCLBc?e=2TMCHE)
 * [Topic 02: Random Variable](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBLlgzMLTY3S5uBv9vN9ZiJAYzQbfBV8RulKMvcWBDvK1w?e=WDKI8t)
 * [Topic 03: Random Vector](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQCVBpVN2k_uTbt43zfBNqSCAeoDviyjcehebc9fxtBgK0Q?e=rrOF11)
 
 ## Problem Sets
-
 * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3)
 * [Problem Set 02](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQCxYuCatq4pQbNArwSJqy1GAR541OoIo6lXajb_U3DYtjc?e=Duro5V)
 * [Problem Set 03](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQCSt6IElZpcTZmD1JPMgZmkAYaHIlPwWJcIHc5YQ761amk?e=zXzP2m)
@@ -76,4 +70,3 @@ An F grade will be awarded if you obtain less than 20% of total marks after the 
 <!-- * [Problem Set 10]() -->
 <!-- * [Problem Set 11]() -->
 <!-- * [Problem Set 12]() -->
-
