@@ -56,6 +56,7 @@ An F grade will be awarded if you obtain less than 20% of total marks after the 
 * [Topic 01: Probability](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQA1XlgKZFReS4nXfUrPjoX-AeV9sIJcNLwzHpTtkfRCLBc?e=2TMCHE)
 * [Topic 02: Random Variable](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBLlgzMLTY3S5uBv9vN9ZiJAYzQbfBV8RulKMvcWBDvK1w?e=WDKI8t)
 * [Topic 03: Random Vector](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQCVBpVN2k_uTbt43zfBNqSCAeoDviyjcehebc9fxtBgK0Q?e=rrOF11)
+* [Topic 04: Modes of Convergence](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQA4dBg3cWLqTaXrtd9DnjhJAWEM-Jo70Ojyru12N3UExwA?e=eu8smO)
 
 ## Problem Sets
 * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3)
