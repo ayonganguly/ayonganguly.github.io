@@ -11,7 +11,7 @@
 
 
 
-<title>Teaching Experience</title>
+<title>MA 324: Statistical Inference and Multivariate Analysis</title>
 
 <script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -222,6 +225,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -229,6 +295,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -298,140 +374,89 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Teaching Experience</h1>
+<h1 class="title toc-ignore">MA 324: Statistical Inference and
+Multivariate Analysis</h1>
 
 </div>
 
 
-<p><br></p>
-<div id="current-semester" class="section level1">
-<h1>Current Semester</h1>
-<div id="ma-212m-mathematical-statistics" class="section level2">
-<h2><strong>MA 212M: Mathematical Statistics</strong></h2>
+<div id="course-syllabus" class="section level1">
+<h1>Course Syllabus</h1>
 <ul>
-<li><strong>Link:</strong> <a href="ma212m.html">Course Page</a>
-<!-- * **Description:** This course covers fundamental concepts of statistical inference... [Optional: Add brief description here] --></li>
+<li><p>Review of different transformation techniques, modes of
+convergence, law of large numbers, and central limit theorem; Sampling
+distributions based on normal distributions, multivariate normal
+distribution.</p></li>
+<li><p>Point estimation: sufficiency, Neymann-Fisher factorization
+theorem, unbiased estimation, method of moments, maximum likelihood
+estimation, consistency and asymptotic normality of maximum likelihood
+estimator.</p></li>
+<li><p>Interval estimation: confidence coefficient and confident level,
+pivotal method, asymptotic confidence interval, Bootstrap confidence
+interval.</p></li>
+<li><p>Hypothesis testing: type-I and type-II errors, power function,
+size and level, test function and randomized test, most powerful test
+and Neyman-Pearson lemma, likelihood ratio test, p-value</p></li>
+<li><p>Multiple linear regression: least squares estimation, estimation
+of variance, tests of significance, interval estimation,
+multicollinearity, residual analysis, PRESS statistic, detection and
+treatment of outliers, lack of fit.</p></li>
+<li><p>Multivariate analysis: principle component analysis, factor
+analysis, canonical correlations, cluster analysis.</p></li>
+</ul>
+<hr />
+</div>
+<div id="text-books" class="section level1">
+<h1>Text Books</h1>
+<ul>
+<li>D. C. Montgomery, E. A. Peck and G. G. Vining, Introduction to
+Linear Regression Analysis, 5th Ed., Wiley, 2012.</li>
+<li>R. A. Johnson and D. W. Wichern, Applied Multivariate Statistical
+Analysis, 6th Ed., Prentice Hall of India, 2012.</li>
 </ul>
 </div>
-<div id="ma-324-statistical-inference-and-multivariate-analysis"
-class="section level2">
-<h2><strong>MA 324: Statistical Inference and Multivariate
-Analysis</strong></h2>
+<div id="reference-books" class="section level1">
+<h1>Reference Books</h1>
 <ul>
-<li><strong>Link:</strong> <a href="ma324.html">Course Page</a>
-<!-- * **Description:** This course covers fundamental concepts of statistical inference... [Optional: Add brief description here] --></li>
+<li>N. R. Draper and H. Smith, Applied Regression Analysis, 3rd Ed.,
+Wiley, 2000.</li>
+<li>S. Weisberg, Applied Linear Regression, 1st Ed., Wiley, 2005.</li>
+<li>T. W. Anderson, An Introduction to Multivariate Statistical
+Analysis, 3rd Ed., Wiley, 2012.</li>
+<li>W. K. Härdle and L. Simar, Applied Multivariate Statistical
+Analysis, 3rd Ed., Springer, 2012.</li>
 </ul>
-<br>
-<hr>
-<p><br></p>
+<hr />
 </div>
+<div id="evaluation" class="section level1">
+<h1>Evaluation</h1>
+<p>Weights in different examinations are as follows:</p>
+<ul>
+<li><strong>Quiz III:</strong> 15 marks (April 09 during class)</li>
+<li><strong>End-semester examination:</strong> 30 marks (May 08 from 2
+pm to 5 pm)</li>
+</ul>
+<p>For each examination, linear scaling will be used (if needed).<br />
+Letter grade based on your performance in 5 exams (3 quizzes, MS, ES)
+following a relative grading scheme</p>
+<hr />
 </div>
-<div id="course-history" class="section level1">
-<h1>Course History</h1>
-<p>Below is a summary of courses taught, grouped by course code.</p>
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">Course Code</th>
-<th align="left">Course Title</th>
-<th align="left">Semesters (Co-Instructors)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">MA 101</td>
-<td align="left">Mathematics I</td>
-<td align="left">Jul - Nov 2023 (with Dr. S. Saha, Prof. J. C. Kalita,
-Dr. S. Upadhyay)</td>
-</tr>
-<tr class="even">
-<td align="left">MA 212M</td>
-<td align="left">Mathematical Statistics</td>
-<td align="left">Jan - May 2020<br>Jan - May 2019<br>Jan - May 2018
-(with Dr. S. Kamal)<br>Jan - May 2017</td>
-</tr>
-<tr class="odd">
-<td align="left">MA 225</td>
-<td align="left">Probability Theory and Random Processes</td>
-<td align="left">Sep - Dec 2020<br>Jul - Nov 2019 (with Dr. S.
-Saha)</td>
-</tr>
-<tr class="even">
-<td align="left">MA 226</td>
-<td align="left">Monte Carlo Simulation</td>
-<td align="left">Jan - May 2019 (with Prof. S. P. Chakrabarty)</td>
-</tr>
-<tr class="odd">
-<td align="left">MA 323</td>
-<td align="left">Monte Carlo Simulation</td>
-<td align="left">Jul - Nov 2024 (with Prof. N. Selvaraju)<br>Jul - Nov
-2022 (with Dr. A. K. Dey)<br>Jul - Nov 2021</td>
-</tr>
-<tr class="even">
-<td align="left">MA 324</td>
-<td align="left">Statistical Inference &amp; Multivariate Analysis</td>
-<td align="left">Jan - May 2022<br>Jan - May 2021</td>
-</tr>
-<tr class="odd">
-<td align="left">MA 471</td>
-<td align="left">Statistical Analysis of Financial Data</td>
-<td align="left">Jul - Nov 2018</td>
-</tr>
-<tr class="even">
-<td align="left">MA 588</td>
-<td align="left">R Programming Lab</td>
-<td align="left">Jan - May 2025 (with Dr. P. Ghosh)</td>
-</tr>
-<tr class="odd">
-<td align="left">MA 589</td>
-<td align="left">Statistical Foundation for Data Science</td>
-<td align="left">Jul - Nov 2025<br>Jul - Nov 2024</td>
-</tr>
-<tr class="even">
-<td align="left">MA 590</td>
-<td align="left">Probability Theory</td>
-<td align="left">Jan - May 2023<br>Jan - May 2018</td>
-</tr>
-<tr class="odd">
-<td align="left">MA 593</td>
-<td align="left">Statistical Methods and Time Series Analysis</td>
-<td align="left">Jul - Nov 2017<br>Jul - Nov 2016</td>
-</tr>
-<tr class="even">
-<td align="left">MA 594</td>
-<td align="left">Statistical Decision Theory</td>
-<td align="left">Jan - May 2023</td>
-</tr>
-<tr class="odd">
-<td align="left">MA 682</td>
-<td align="left">Statistical Inference</td>
-<td align="left">Jan - May 2024</td>
-</tr>
-<tr class="even">
-<td align="left">MA 683</td>
-<td align="left">Probability Theory</td>
-<td align="left">Jul - Nov 2022</td>
-</tr>
-<tr class="odd">
-<td align="left">MA 690</td>
-<td align="left">Understanding Statistical Learning Theory</td>
-<td align="left">Jan - May 2025</td>
-</tr>
-<tr class="even">
-<td align="left">MA 1503H / 1509H</td>
-<td align="left">Multi Variable Calculus</td>
-<td align="left">Jul - Nov 2025</td>
-</tr>
-</tbody>
-</table>
-<script>
-  $("table").addClass("table table-striped table-hover table-condensed");
-</script>
+<div id="course-materials" class="section level1">
+<h1>Course Materials</h1>
+<div id="lecture-slides" class="section level2">
+<h2>Lecture Slides</h2>
+<ul>
+<li><a
+href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDMMWOT61MmToipcvvSzJkHAeljtsU_KmSF8sOsRUmLRYU?e=zZujta">Topic
+00: Introduction and Information</a>
+<!-- * [Topic 01: COnfidence Interval]() -->
+<!-- * [Topic 02: Simple Linear Regression]() -->
+<!-- * [Topic 02: Multiple Linear Regression]() -->
+<!-- * [Topic 03: Multivariate Analysis]() --></li>
+</ul>
+<!-- ## Problem Sets -->
+<!-- * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3) -->
+</div>
 </div>
 
 <div class="footer">
@@ -456,6 +481,8 @@ Saha)</td>
 </script>
 
 
+</div>
+</div>
 
 </div>
 
@@ -488,6 +515,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

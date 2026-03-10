@@ -1,0 +1,72 @@
+---
+title: "MA 324: Statistical Inference and Multivariate Analysis"
+output:
+   html_document:
+    toc: true
+    toc_float: true
+---
+
+# Course Syllabus
+
+* Review of different transformation techniques, modes of convergence, law of
+  large numbers, and central limit theorem; Sampling distributions based on
+  normal distributions, multivariate normal distribution.
+
+* Point estimation: sufficiency, Neymann-Fisher factorization theorem, unbiased
+  estimation, method of moments, maximum likelihood estimation, consistency and
+  asymptotic normality of maximum likelihood estimator.
+
+* Interval estimation: confidence coefficient and confident level, pivotal
+  method, asymptotic confidence interval, Bootstrap confidence interval.
+
+* Hypothesis testing: type-I and type-II errors, power function, size and level,
+  test function and randomized test, most powerful test and Neyman-Pearson
+  lemma, likelihood ratio test, p-value
+
+* Multiple linear regression: least squares estimation, estimation of variance,
+  tests of significance, interval estimation, multicollinearity, residual
+  analysis, PRESS statistic, detection and treatment of outliers, lack of fit.
+
+* Multivariate analysis: principle component analysis, factor analysis,
+  canonical correlations, cluster analysis.
+
+---
+
+# Text Books
+
+* D. C. Montgomery, E. A. Peck and G. G. Vining, Introduction to Linear Regression Analysis, 5th Ed., Wiley, 2012.
+* R. A. Johnson and D. W. Wichern, Applied Multivariate Statistical Analysis, 6th Ed., Prentice Hall of India, 2012.
+
+# Reference Books
+
+* N. R. Draper and H. Smith, Applied Regression Analysis, 3rd Ed., Wiley, 2000.
+* S. Weisberg, Applied Linear Regression, 1st Ed., Wiley, 2005.
+* T. W. Anderson, An Introduction to Multivariate Statistical Analysis, 3rd Ed., Wiley, 2012.
+* W. K. Härdle and L. Simar, Applied Multivariate Statistical Analysis, 3rd Ed., Springer, 2012.
+
+---
+
+# Evaluation
+
+Weights in different examinations are as follows:
+
+* **Quiz III:** 15 marks (April 09 during class)
+* **End-semester examination:** 30 marks (May 08 from 2 pm to 5 pm)
+
+For each examination, linear scaling will be used (if needed).  
+Letter grade based on your performance in 5 exams (3 quizzes, MS, ES) following
+a relative grading scheme
+
+---
+
+# Course Materials
+
+## Lecture Slides
+* [Topic 00: Introduction and Information](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDMMWOT61MmToipcvvSzJkHAeljtsU_KmSF8sOsRUmLRYU?e=zZujta)
+<!-- * [Topic 01: COnfidence Interval]() -->
+<!-- * [Topic 02: Simple Linear Regression]() -->
+<!-- * [Topic 02: Multiple Linear Regression]() -->
+<!-- * [Topic 03: Multivariate Analysis]() -->
+
+<!-- ## Problem Sets -->
+<!-- * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3) -->

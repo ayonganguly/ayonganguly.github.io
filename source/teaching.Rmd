@@ -13,6 +13,10 @@ output:
 * **Link:** [Course Page](ma212m.html)
 <!-- * **Description:** This course covers fundamental concepts of statistical inference... [Optional: Add brief description here] -->
 
+## **MA 324: Statistical Inference and Multivariate Analysis**
+* **Link:** [Course Page](ma324.html)
+<!-- * **Description:** This course covers fundamental concepts of statistical inference... [Optional: Add brief description here] -->
+
 <br>
 <hr>
 <br>
