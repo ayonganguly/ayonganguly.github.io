@@ -64,7 +64,7 @@ a relative grading scheme
 ## Lecture Slides
 * [Topic 00: Introduction and Information](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDMMWOT61MmToipcvvSzJkHAeljtsU_KmSF8sOsRUmLRYU?e=zZujta)
 * [Topic 01: Delta Method and Bootstrap](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDyxY7ixEscRJ9RZk4mBsA6AR9IFkawncmpqWbs_LKDF6o?e=YDLkuy)
-<!-- * [Topic 02: Simple Linear Regression]() -->
+* [Topic 02: Simple Linear Regression](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQCiCmPr-Sj2QbPdFYm-Ib1GARhyjhwS-kOGsKfRmBOTppM?e=fDFulf)
 <!-- * [Topic 02: Multiple Linear Regression]() -->
 <!-- * [Topic 03: Multivariate Analysis]() -->
 
