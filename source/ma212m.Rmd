@@ -59,7 +59,7 @@ An F grade will be awarded if you obtain less than 20% of total marks after the 
 * [Topic 04: Modes of Convergence](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQA4dBg3cWLqTaXrtd9DnjhJAWEM-Jo70Ojyru12N3UExwA?e=eu8smO)
 * [Topic 05: Sampling Distributions](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDsOjOz8GPXRrCP2OO8dysnAcpA4jL0zc7i6VsS1jyJUbI?e=WH8ZHJ)
 * [Topic 06: Point Estimation](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQATqpdi-SvNR7TUaFLqXfaaAVkcDu56ebAAE3ax-59YdJQ?e=6LWZ3B)
-* [Topic 06: Interval Estimation](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDmFLGEdPaaSLGiGFO27WPvAaucDMJiqFa2RNPX2b0qzGI?e=DDFfl3)
+* [Topic 07: Interval Estimation](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDmFLGEdPaaSLGiGFO27WPvAaucDMJiqFa2RNPX2b0qzGI?e=DDFfl3)
 
 ## Problem Sets
 * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3)
