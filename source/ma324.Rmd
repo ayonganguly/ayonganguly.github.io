@@ -50,7 +50,7 @@ output:
 
 Weights in different examinations are as follows:
 
-* **Quiz III:** 15 marks (April 09 during class)
+* **Quiz III:** 15 marks (~~April 09~~ April 08 during class)
 * **End-semester examination:** 30 marks (May 08 from 2 pm to 5 pm)
 
 For each examination, linear scaling will be used (if needed).  
