@@ -68,5 +68,6 @@ a relative grading scheme
 * [Topic 03: Multiple Linear Regression](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAbEcKeTabwQ4DUm01aIBGEATZIQIyRaU79j_lw7pArRa4?e=0aO1Fg)
 <!-- * [Topic 03: Multivariate Analysis]() -->
 
-<!-- ## Problem Sets -->
-<!-- * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3) -->
+## Problem Sets
+* [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBXntE3hAXXTpUjlusXTWnIARr633nWpnJ6HBFGNvRc2g4?e=FKwtRL)
+* [Problem Set 02](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAI-yKUg4HbRLo4Sn-ukZnvAU2nc2Ki-sk6y6LENc1I_NY?e=gBFQio)
