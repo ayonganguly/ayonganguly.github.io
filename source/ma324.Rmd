@@ -66,7 +66,7 @@ a relative grading scheme
 * [Topic 01: Delta Method and Bootstrap](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDyxY7ixEscRJ9RZk4mBsA6AR9IFkawncmpqWbs_LKDF6o?e=YDLkuy)
 * [Topic 02: Simple Linear Regression](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQCiCmPr-Sj2QbPdFYm-Ib1GARhyjhwS-kOGsKfRmBOTppM?e=fDFulf)
 * [Topic 03: Multiple Linear Regression](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAbEcKeTabwQ4DUm01aIBGEATZIQIyRaU79j_lw7pArRa4?e=0aO1Fg)
-<!-- * [Topic 03: Multivariate Analysis]() -->
+* [Topic 03: Multivariate Analysis](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBXib09ICIFSLND8D4FH2PWAVfY2r4crfENiTqeZhecLY0?e=2dDlgh)
 
 ## Problem Sets
 * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBXntE3hAXXTpUjlusXTWnIARr633nWpnJ6HBFGNvRc2g4?e=FKwtRL)
