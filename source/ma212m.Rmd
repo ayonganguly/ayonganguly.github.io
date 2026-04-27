@@ -61,7 +61,9 @@ An F grade will be awarded if you obtain less than 20% of total marks after the 
 * [Topic 06: Point Estimation](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQATqpdi-SvNR7TUaFLqXfaaAVkcDu56ebAAE3ax-59YdJQ?e=6LWZ3B)
 * [Topic 07: Interval Estimation](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDmFLGEdPaaSLGiGFO27WPvAaucDMJiqFa2RNPX2b0qzGI?e=DDFfl3)
 * [Topic 08: Testing of Hypotheses](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAipCp0NN0MQasxXSdulbAgAWZ5tPLD4aZ1ZCRcN86r2Zk?e=zfhGll)
-* [Topic 09: Linear Regression](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQB3Z5ezzRT_SIju680Jq3FsAbrShAbdNK4V5DUH0eDrMWc?e=mBgB5J)
+* [Topic 09: Simple Linear Regression](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQB3Z5ezzRT_SIju680Jq3FsAbrShAbdNK4V5DUH0eDrMWc?e=mBgB5J)
+* [Topic 10: Multiple Linear Regression](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAgU8BcRWi4Q66nzpzJpJCNAaPE5ggwgIThX5xewUihgT4?e=g0vzUH)
+* [Topic 11: Logistic and Poisson Regression](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQD0W84UdQwXRpx2b4mDBrkIAd8JWUfwOMdZM9EvehrVfio?e=aU91rD)
 
 ## Problem Sets
 * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3)
