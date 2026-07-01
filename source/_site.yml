@@ -19,6 +19,9 @@ navbar:
     - text: "Supervision"
       icon: fa-users
       href: stud.html
+    - text: "Talks"       
+      icon: fa-microphone
+      href: talks.html     
   right:
     - text: "Contact"
       icon: fa-envelope

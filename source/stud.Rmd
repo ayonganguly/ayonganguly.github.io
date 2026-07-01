@@ -20,6 +20,10 @@ title: "Students"
 <!-- # cat(tabl) -->
 <!-- # ``` -->
 
+<br>
+<hr>
+<br>
+
 # MSc Students
 
   1. Ms. Shivika Rani (2025). Project Title: GLMs: Bridging linear and
@@ -40,6 +44,9 @@ title: "Students"
      step-stress tampered random variable model under generalized
      exponential lifetimes.
 
+<br>
+<hr>
+<br>
 
 # BTech Students
 

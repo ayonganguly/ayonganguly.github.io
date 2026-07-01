@@ -9,13 +9,26 @@ output:
 
 # Current Semester
 
-## **MA 212M: Mathematical Statistics**
-* **Link:** [Course Page](ma212m.html)
+## **MA 690: Understanding Statistical Learning Theory**
+* **Link:** [Course Page](ma690.html)
 <!-- * **Description:** This course covers fundamental concepts of statistical inference... [Optional: Add brief description here] -->
 
-## **MA 324: Statistical Inference and Multivariate Analysis**
-* **Link:** [Course Page](ma324.html)
-<!-- * **Description:** This course covers fundamental concepts of statistical inference... [Optional: Add brief description here] -->
+<br>
+<hr>
+<br>
+
+## NPTEL-MOOC Course
+
+**Discrete-time Markov Chains and Poisson Processes**
+
+* **Co-instructor:** Dr. Subhamay Saha
+* **Duration:** 8 weeks
+* **Sessions:** 
+  * January – April 2026 *(Repeat)*
+  * January – April 2022
+* **Links:** 
+  * [NPTEL Course Website](https://onlinecourses.nptel.ac.in/e-learning/preview/noc22_ma16)
+  * [YouTube Playlist](https://www.youtube.com/playlist?list=PLwdnzlV3ogoXEZ6rpZLKzzlypKnsa-ySx)
 
 <br>
 <hr>
@@ -23,16 +36,16 @@ output:
 
 # Course History
 
-Below is a summary of courses taught, grouped by course code.
+Below is a summary of courses that I taught at IIT Guwahati.
 
 | Course Code | Course Title | Semesters (Co-Instructors) |
-|:---|:---|:---|
+|:---|:---|:----|
 | MA 101 | Mathematics I | Jul - Nov 2023 (with Dr. S. Saha, Prof. J. C. Kalita, Dr. S. Upadhyay) |
-| MA 212M | Mathematical Statistics | Jan - May 2020<br>Jan - May 2019<br>Jan - May 2018 (with Dr. S. Kamal)<br>Jan - May 2017 |
+| MA 212M | Mathematical Statistics | Jan - May 2026<br>Jan - May 2020<br>Jan - May 2019<br>Jan - May 2018 (with Dr. S. Kamal)<br>Jan - May 2017 |
 | MA 225 | Probability Theory and Random Processes | Sep - Dec 2020<br>Jul - Nov 2019 (with Dr. S. Saha) |
 | MA 226 | Monte Carlo Simulation | Jan - May 2019 (with Prof. S. P. Chakrabarty) |
 | MA 323 | Monte Carlo Simulation | Jul - Nov 2024 (with Prof. N. Selvaraju)<br>Jul - Nov 2022 (with Dr. A. K. Dey)<br>Jul - Nov 2021 |
-| MA 324 | Statistical Inference & Multivariate Analysis | Jan - May 2022<br>Jan - May 2021 |
+| MA 324 | Statistical Inference & Multivariate Analysis | Jan - May 2026 (with Dr. S. Saha)<br>Jan - May 2022<br>Jan - May 2021 |
 | MA 471 | Statistical Analysis of Financial Data | Jul - Nov 2018 |
 | MA 588 | R Programming Lab | Jan - May 2025 (with Dr. P. Ghosh) |
 | MA 589 | Statistical Foundation for Data Science | Jul - Nov 2025<br>Jul - Nov 2024 |
@@ -43,6 +56,8 @@ Below is a summary of courses taught, grouped by course code.
 | MA 683 | Probability Theory | Jul - Nov 2022 |
 | MA 690 | Understanding Statistical Learning Theory | Jan - May 2025 |
 | MA 1503H / 1509H | Multi Variable Calculus | Jul - Nov 2025 |
+
+
 
 <script>
   $("table").addClass("table table-striped table-hover table-condensed");
