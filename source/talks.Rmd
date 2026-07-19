@@ -12,8 +12,8 @@ output:
 - **Jul 2026** | **Recent Advances in Applied Mathematics** *(Minisymposium on Reliability Theory)*  
   *Hyderabad, India* | [[Slides PDF]](talks/2026_hyderabad.html)
 
-- **Jan 2026** | **International Conference on Statistics, Data Science and Optimization**  
-  *Agartala, India* | [[Slides PDF]](talks/2026_agartala.html)
+<!-- - **Jan 2026** | **International Conference on Statistics, Data Science and Optimization**   -->
+<!--   *Agartala, India* | [[Slides PDF]](talks/2026_agartala.html) -->
 
 - **Nov 2023** | **National Seminar on Recent Trends in Statistics**  
   *Shillong, India* | [[Slides PDF]](talks/2023_shillong.pdf)
