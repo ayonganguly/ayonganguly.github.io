@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - assets/
   output-dir: docs  # Directs output to docs/ for GitHub Pages
 
 website:

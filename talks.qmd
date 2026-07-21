@@ -7,25 +7,25 @@ output:
 # Invited Talks
 
 - **Jul 2026** | **Advanced in Statistics and Data Sciences** *(In honor of Professor Debasis Kundu)*  
-  *Kanpur, India* | [[Slides PDF]](talks/2026_kanpur.html)
+  *Kanpur, India* | [[Slides PDF]](/assets/talks/2026_kanpur.pdf)
 
 - **Jul 2026** | **Recent Advances in Applied Mathematics** *(Minisymposium on Reliability Theory)*  
-  *Hyderabad, India* | [[Slides PDF]](talks/2026_hyderabad.html)
+  *Hyderabad, India* | [[Slides PDF]](/assets/talks/2026_hyderabad.pdf)
 
 <!-- - **Jan 2026** | **International Conference on Statistics, Data Science and Optimization**   -->
 <!--   *Agartala, India* | [[Slides PDF]](talks/2026_agartala.html) -->
 
 - **Nov 2023** | **National Seminar on Recent Trends in Statistics**  
-  *Shillong, India* | [[Slides PDF]](talks/2023_shillong.pdf)
+  *Shillong, India* | [[Slides PDF]](/assets/talks/2023_shillong.pdf)
 
 - **Dec 2022** | **International Indian Statistical Association Conference**  
-  *Bengaluru, India* | [[Slides PDF]](talks/2022_bengaluru.pdf)
+  *Bengaluru, India* | [[Slides PDF]](/assets/talks/2022_bengaluru.pdf)
 
 - **Dec 2022** | **International Workshop on Reliability Theory and Survival Analysis** *(Review Talk)*  
-  *Kolkata, India* | [[Slides PDF]](talks/2022_kolkata.pdf)
+  *Kolkata, India* | [[Slides PDF]](/assets/talks/2022_kolkata.pdf)
 
 - **Mar 2017** | **National Conference on Recent Advancement in Statistics for Society and their Applications**  
-  *Pune, India* | [[Slides PDF]](talks/2017_pune.pdf)
+  *Pune, India* | [[Slides PDF]](/assets/talks/2017_pune.pdf)
 
 <br>
 <hr>
@@ -34,19 +34,19 @@ output:
 # Contributed Talks
 
 - **Jan 2026** | **1st International Conference on Statistics, Data Science and Optimization**  
-  *Agartala, India* | [[Slides PDF]](talks/2026_agartala.pdf)
+  *Agartala, India* | [[Slides PDF]](/assets/talks/2026_agartala.pdf)
 
 - **Jun 2025** | **16th International OSD Conference on Order in Statistical Data**  
-  *Aachen, Germany* | [[Slides PDF]](talks/2025_aachen.pdf)
+  *Aachen, Germany* | [[Slides PDF]](/assets/talks/2025_aachen.pdf)
 
 - **May 2023** | **12th International Conference on Mathematical Methods in Reliability**  
-  *Murcia, Spain* | [[Slides PDF]](talks/2023_murcia.pdf)
+  *Murcia, Spain* | [[Slides PDF]](/assets/talks/2023_murcia.pdf)
 
 - **Jun 2019** | **11th International Conference on Mathematical Methods in Reliability**  
-  *Hong Kong* | [[Slides PDF]](talks/2019_hongkong.pdf)
+  *Hong Kong* | [[Slides PDF]](/assets/talks/2019_hongkong.pdf)
 
 - **Jul 2017** | **10th International Conference on Mathematical Methods in Reliability**  
-  *Grenoble, France* | [[Slides PDF]](talks/2017_grenoble.pdf)
+  *Grenoble, France* | [[Slides PDF]](/assets/talks/2017_grenoble.pdf)
 
 - **Dec 2016** | **International Conference on Mathematics, Statistics & Information Technology**  
-  *Tanta, Egypt* | [[Slides PDF]](talks/2016_tanta.pdf)
+  *Tanta, Egypt* | [[Slides PDF]](/assets/talks/2016_tanta.pdf)

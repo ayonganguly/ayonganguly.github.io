@@ -15,7 +15,7 @@ about:
       href: https://scholar.google.com/citations?user=MN2c440AAAAJ&hl=en
     - icon: file-earmark-pdf
       text: CV
-      href: assets/CV_Ayon_Ganguly.pdf
+      href: /assets/CV_Ayon_Ganguly.pdf
 ---
 
 # Bio
