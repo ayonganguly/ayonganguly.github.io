@@ -23,9 +23,7 @@ title: "Publications"
 1. Kundu, D., Samanta, D., **Ganguly, A.**, and Mitra, S. (2013), [Bayesian Analysis of Different Hybrid and Progressive Life Tests](https://www.tandfonline.com/doi/full/10.1080/03610918.2011.654027){target="_blank"}, *Communication in Statistics - Simulation and Computation*, 42:2160--2173. [[Preprint]](./papers/2013KSGM.pdf){target="_blank"}
 1. **Ganguly, A.**, Mitra, S., Samanta, D., and Kundu, D. (2012), [Exact Inference for the Two-Parameter Exponential Distribution Under Type-II Hybrid Censoring](https://www.sciencedirect.com/science/article/pii/S0378375811003120){target="_blank"}, *Journal of Statistical Planning and Inference*, 142:613--625. [[Preprint]](./papers/2012GMSK.pdf){target="_blank"}
 
-<br>
-<hr>
-<br>
+---
 
 # Book
 

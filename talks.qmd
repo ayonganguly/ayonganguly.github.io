@@ -4,7 +4,7 @@ output:
   html_document
 ---
 
-## Invited Talks
+# Invited Talks
 
 - **Jul 2026** | **Advanced in Statistics and Data Sciences** *(In honor of Professor Debasis Kundu)*  
   *Kanpur, India* | [[Slides PDF]](talks/2026_kanpur.html)
@@ -31,7 +31,7 @@ output:
 <hr>
 <br>
 
-## Contributed Talks
+# Contributed Talks
 
 - **Jan 2026** | **1st International Conference on Statistics, Data Science and Optimization**  
   *Agartala, India* | [[Slides PDF]](talks/2026_agartala.pdf)

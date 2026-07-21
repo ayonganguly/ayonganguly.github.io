@@ -1,25 +1,18 @@
 ---
 title: "Teaching Experience"
-output:
-  html_document:
-    toc: false
 ---
-
-<br>
 
 # Current Semester
 
-## **MA 690: Understanding Statistical Learning Theory**
-* **Link:** [Course Page](ma690.html)
+### MA 6056: Understanding Statistical Learning Theory
+<!-- **Link:** [Course Page](ma6056.html) -->
 <!-- * **Description:** This course covers fundamental concepts of statistical inference... [Optional: Add brief description here] -->
 
-<br>
-<hr>
-<br>
+---
 
 # NPTEL-MOOC Course
 
-**Discrete-time Markov Chains and Poisson Processes**
+### Discrete-time Markov Chains and Poisson Processes
 
 * **Co-instructor:** Dr. Subhamay Saha
 * **Duration:** 8 weeks
@@ -30,9 +23,7 @@ output:
   * [NPTEL Course Website](https://onlinecourses.nptel.ac.in/e-learning/preview/noc22_ma16)
   * [YouTube Playlist](https://www.youtube.com/playlist?list=PLwdnzlV3ogoXEZ6rpZLKzzlypKnsa-ySx)
 
-<br>
-<hr>
-<br>
+---
 
 # Course History
 

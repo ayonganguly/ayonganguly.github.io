@@ -20,9 +20,7 @@ title: "Students"
 <!-- # cat(tabl) -->
 <!-- # ``` -->
 
-<br>
-<hr>
-<br>
+---
 
 # MSc Students
 
@@ -44,9 +42,7 @@ title: "Students"
      step-stress tampered random variable model under generalized
      exponential lifetimes.
 
-<br>
-<hr>
-<br>
+---
 
 # BTech Students
 
