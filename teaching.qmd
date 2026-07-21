@@ -17,7 +17,7 @@ output:
 <hr>
 <br>
 
-## NPTEL-MOOC Course
+# NPTEL-MOOC Course
 
 **Discrete-time Markov Chains and Poisson Processes**
 
