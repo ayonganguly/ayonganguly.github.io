@@ -7,7 +7,7 @@ output:
 
 <br>
 
-# Current Semester
+# Current Semeste
 
 ## **MA 690: Understanding Statistical Learning Theory**
 * **Link:** [Course Page](ma690.html)
