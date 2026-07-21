@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs  # Directs output to docs/ for GitHub Pages
+
+website:
+  title: "Ayon Ganguly"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Academics"
+        href: acad.qmd
+      - text: "Publications"
+        href: pubs.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Supervision"
+        href: studs.qmd
+      - text: "Talks"
+        href: talks.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+
+execute:
+  freeze: auto  # Re-renders code chunks only when .qmd files change locally
