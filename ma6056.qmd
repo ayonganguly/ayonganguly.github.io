@@ -1,0 +1,39 @@
+---
+title: "MA 212M: Understanding Statistical Learning Theory"
+---
+
+---
+
+# Course Syllabus
+
+
+---
+
+# Text Books
+
+* 
+
+---
+
+# Evaluation
+
+Weights in different examinations are as follows:
+
+* **Quiz I:** 15% (February 06 during class)
+* **Mid-semester examination:** 30% (March 07 from 9 am to 11 am)
+* **Quiz II:** 15% (April 10 during class)
+* **End-semester examination:** 40% (May 09 from 9 am to 12 am)
+
+For each examination, linear scaling will be used (if needed).
+
+An F grade will be awarded if you obtain less than 20% of total marks after the end semester examination.
+
+---
+
+# Course Materials
+
+## Lecture Slides
+* [Topic 00: Introduction]()
+
+<!-- ## Problem Sets -->
+<!-- * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3) -->
