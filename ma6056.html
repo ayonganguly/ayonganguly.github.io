@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c77c9138bec0b7f87654b70582999a87.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d94f0129d652a5a8036266edffbc062c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -132,7 +135,11 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#course-syllabus" id="toc-course-syllabus" class="nav-link active" data-scroll-target="#course-syllabus">Course Syllabus</a></li>
+  <li><a href="#books" id="toc-books" class="nav-link" data-scroll-target="#books">Books</a>
+  <ul class="collapse">
   <li><a href="#text-books" id="toc-text-books" class="nav-link" data-scroll-target="#text-books">Text Books</a></li>
+  <li><a href="#reference-book" id="toc-reference-book" class="nav-link" data-scroll-target="#reference-book">Reference Book</a></li>
+  </ul></li>
   <li><a href="#evaluation" id="toc-evaluation" class="nav-link" data-scroll-target="#evaluation">Evaluation</a></li>
   <li><a href="#course-materials" id="toc-course-materials" class="nav-link" data-scroll-target="#course-materials">Course Materials</a>
   <ul class="collapse">
@@ -163,37 +170,57 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<hr>
-<section id="course-syllabus" class="level1">
-<h1>Course Syllabus</h1>
-<hr>
-</section>
-<section id="text-books" class="level1">
-<h1>Text Books</h1>
+<section id="course-syllabus" class="level2">
+<h2 class="anchored" data-anchor-id="course-syllabus">Course Syllabus</h2>
 <ul>
-<li></li>
+<li>Linear Regression</li>
+<li>Linear Model Selection and Regularization</li>
+<li>Classification</li>
+<li>Non-linear Regression</li>
+<li>Tree-based Methods</li>
+<li>Support Vector Machine</li>
+<li>Deep Learning</li>
+<li>Multiple Testing</li>
+<li>Survival Analysis</li>
 </ul>
-<hr>
 </section>
-<section id="evaluation" class="level1">
-<h1>Evaluation</h1>
-<p>Weights in different examinations are as follows:</p>
+<section id="books" class="level2">
+<h2 class="anchored" data-anchor-id="books">Books</h2>
+<section id="text-books" class="level3">
+<h3 class="anchored" data-anchor-id="text-books">Text Books</h3>
 <ul>
-<li><strong>Quiz I:</strong> 15% (February 06 during class)</li>
-<li><strong>Mid-semester examination:</strong> 30% (March 07 from 9 am to 11 am)</li>
-<li><strong>Quiz II:</strong> 15% (April 10 during class)</li>
-<li><strong>End-semester examination:</strong> 40% (May 09 from 9 am to 12 am)</li>
+<li>An Introduction to Statistical Learning with Application in R by G. James, D. Witten, T. Hastie, R. Tibshirani <a href="https://www.statlearning.com/">Softcopy</a></li>
+<li>An Introduction to Statistical Learning with Application in Python by G.James, D. Witten, T. Hastie, R. Tibshirani, J. Taylor <a href="https://www.statlearning.com/">Softcopy</a></li>
 </ul>
-<p>For each examination, linear scaling will be used (if needed).</p>
-<p>An F grade will be awarded if you obtain less than 20% of total marks after the end semester examination.</p>
-<hr>
 </section>
-<section id="course-materials" class="level1">
-<h1>Course Materials</h1>
-<section id="lecture-slides" class="level2">
-<h2 class="anchored" data-anchor-id="lecture-slides">Lecture Slides</h2>
+<section id="reference-book" class="level3">
+<h3 class="anchored" data-anchor-id="reference-book">Reference Book</h3>
 <ul>
-<li><a href="">Topic 00: Introduction</a></li>
+<li>The Elements of Statistical Learning} by T. Hastie, R. Tibshirani, J. Friedman <a href="https://hastie.su.domains/ElemStatLearn/">Softcopy</a></li>
+</ul>
+</section>
+</section>
+<section id="evaluation" class="level2">
+<h2 class="anchored" data-anchor-id="evaluation">Evaluation</h2>
+<p>Will be informed between August 04 – 06, 2026 <!-- Weights in different examinations are as follows:
+
+* **Quiz I:** 15% (February 06 during class)
+* **Mid-semester examination:** 30% (March 07 from 9 am to 11 am)
+* **Quiz II:** 15% (April 10 during class)
+* **End-semester examination:** 40% (May 09 from 9 am to 12 am)
+
+For each examination, linear scaling will be used (if needed).
+
+An F grade will be awarded if you obtain less than 20% of total marks after the end semester examination. --></p>
+</section>
+<section id="course-materials" class="level2">
+<h2 class="anchored" data-anchor-id="course-materials">Course Materials</h2>
+<p>To download lecture slides on statistical inference and linear regression, please <a href="./assets/ma6056/prerequisite.pdf">click here</a></p>
+<section id="lecture-slides" class="level3">
+<h3 class="anchored" data-anchor-id="lecture-slides">Lecture Slides</h3>
+<ul>
+<li><a href="./assets/ma6056/topic00-Info.pdf">Topic 00: Introduction</a></li>
+<li><a href="./assets/ma6056/topic01-LR.pdf">Topic 00: Linear Regression</a></li>
 </ul>
 <!-- ## Problem Sets -->
 <!-- * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3) -->
