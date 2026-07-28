@@ -5,7 +5,7 @@ title: "Teaching Experience"
 # Current Semester
 
 ### MA 6056: Understanding Statistical Learning Theory
-<!-- **Link:** [Course Page](ma6056.html) -->
+**Link:** [Course Page](ma6056.html)
 <!-- * **Description:** This course covers fundamental concepts of statistical inference... [Optional: Add brief description here] -->
 
 ---

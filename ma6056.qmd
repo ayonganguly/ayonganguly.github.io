@@ -2,22 +2,33 @@
 title: "MA 212M: Understanding Statistical Learning Theory"
 ---
 
----
+## Course Syllabus
 
-# Course Syllabus
+* Linear Regression
+* Linear Model Selection and Regularization
+* Classification
+* Non-linear Regression
+* Tree-based Methods
+* Support Vector Machine
+* Deep Learning
+* Multiple Testing
+* Survival Analysis
 
+## Books
 
----
+### Text Books
 
-# Text Books
+* An Introduction to Statistical Learning with Application in R by G. James, D. Witten, T. Hastie, R. Tibshirani [Softcopy](https://www.statlearning.com/)
+* An Introduction to Statistical Learning with Application in Python by G.James, D. Witten, T. Hastie, R. Tibshirani, J. Taylor [Softcopy](https://www.statlearning.com/)
 
-* 
+### Reference Book
 
----
+* The Elements of Statistical Learning} by T. Hastie, R. Tibshirani, J. Friedman [Softcopy](https://hastie.su.domains/ElemStatLearn/)
 
-# Evaluation
+## Evaluation
 
-Weights in different examinations are as follows:
+Will be informed between August 04 -- 06, 2026
+<!-- Weights in different examinations are as follows:
 
 * **Quiz I:** 15% (February 06 during class)
 * **Mid-semester examination:** 30% (March 07 from 9 am to 11 am)
@@ -26,14 +37,15 @@ Weights in different examinations are as follows:
 
 For each examination, linear scaling will be used (if needed).
 
-An F grade will be awarded if you obtain less than 20% of total marks after the end semester examination.
+An F grade will be awarded if you obtain less than 20% of total marks after the end semester examination. -->
 
----
+## Course Materials
 
-# Course Materials
+To download lecture slides on statistical inference and linear regression, please [click here](./assets/ma6056/prerequisite.pdf)
 
-## Lecture Slides
-* [Topic 00: Introduction]()
+### Lecture Slides
+* [Topic 00: Introduction](./assets/ma6056/topic00-Info.pdf)
+* [Topic 00: Linear Regression](./assets/ma6056/topic01-LR.pdf)
 
 <!-- ## Problem Sets -->
 <!-- * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3) -->
