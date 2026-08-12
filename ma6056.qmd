@@ -47,6 +47,7 @@ To download lecture slides on statistical inference and linear regression, pleas
 * [Topic 00: Introduction](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBvPOjpiacRQoIVijlrtGbYAdH0OHZUo9D-PH-HXDJzhuI?e=HCaCmA)
 * [Topic 01: Linear Regression (A Review)](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQD8pgQy6-vjSLMwE5GK3F9-AWaYRkuiqVw8C2wMO1hQI24?e=2xKB7k)
 * [Topic 02: Statistical Learning (An Overview)](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAsam6ZTlAKSaIxIbA0AxQzAe-dfhAkmPcv78x4PVpAoYg?e=6tjwl9)
+* [Topic 03: Model Selection in Linear Regression](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQC3306-Y3kUTJ5zXS2iNNqzAeee9o39_lVfVzAZugTXh4g?e=4gPQLK)
 
 <!-- ## Problem Sets -->
 <!-- * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3) -->
