@@ -27,17 +27,13 @@ title: "MA 212M: Understanding Statistical Learning Theory"
 
 ## Evaluation
 
-Will be informed between August 04 -- 06, 2026
-<!-- Weights in different examinations are as follows:
+<!-- Will be informed between August 04 -- 06, 2026 -->
+The breakdown of the evaluation components and their respective weights is as follows:
 
-* **Quiz I:** 15% (February 06 during class)
-* **Mid-semester examination:** 30% (March 07 from 9 am to 11 am)
-* **Quiz II:** 15% (April 10 during class)
-* **End-semester examination:** 40% (May 09 from 9 am to 12 am)
-
-For each examination, linear scaling will be used (if needed).
-
-An F grade will be awarded if you obtain less than 20% of total marks after the end semester examination. -->
+* **Project I:** 20% (Selected topics will be assigned for self-study throughout the semester. Students are expected to independently study and present these topics as part of a continuous evaluation process.)
+* **Project II:** 30% (Students are expected to complete a comprehensive data analysis project and present their findings. Presentations will be scheduled toward the end of the semester. Further details will be provided in class.)
+* **Mid-semester examination:** 20% (September 19 from 9 am to 11 am)
+* **End-semester examination:** 30% (November 20 from 9 am to 12 am)
 
 ## Course Materials
 
