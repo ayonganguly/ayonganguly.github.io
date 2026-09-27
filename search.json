@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Ayon Ganguly\nEmail: aganguly@iitg.ac.in, ayonganguly@gmail.com\nPhone: +91 361 258 2639\n\n\n\n\nMailing Address\nDepartment of Mathematics\nIndian Institute of Technology Guwahati\nGuwahati-781 039\nAssam, India\n\n\n\n\n\nOffice Address\nE1-210, Department of Mathematics\nIndian Institute of Technology Guwahati\nGuwahati-781 039\nAssam, India"
+  },
+  {
+    "objectID": "acad.html",
+    "href": "acad.html",
+    "title": "Academics",
+    "section": "",
+    "text": "Education\n\nPhD in Statistics (2013), Department of Mathematics and Statistics, IIT Kanpur, Kanpur - 208 016, India. Thesis\nMaster of science in Statistics (2008), Department of Mathematics and Statistics, IIT Kanpur, Kanpur - 208 016, India.\nBachelor of science in Statistics (2006), Department of Statistics, Maulana Azad College, Kolkata - 700 013, India.\nHigher Secondary Examination (2003), West Bengal Council of Higher Secondary Examination, India.\nSecondary (Madhyamik) Examination (2001), West Bengal Board of Secondary Education, India.\n\n\n\n\nWork Experiences\n\nAssistant Professor at the Department of Mathematics, Indian Institute of Technology Guwahati from June, 2016 to present.\nAssistant Professor (on contract) at the Department of Applied Sciences, Indian Institute of Information Technology Allahabad from January, 2016 to June 2016.\nVisiting Faculty (Adhoc) at the Department of Applied Sciences, Indian Institute of Information Technology Allahabad from December, 2014 to January,\n\n\n\nPost-doctoral fellow (Dr. DS Kothari Fellowship form UGC) at the Department of Statistics, Sabitribai Phule Pune University, Pune from September 2013 to December, 2014.\nVisiting Scientist at Indian Statistical Institute, Chennai from April, 2013 to September, 2013.\n\n\n\n\nEditorial Activities\n\nAssociate Editor of Mathematical Methods of Statistics, Springer Nature, from 2025 to present."
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Papers in Refereed Journal\n\nGanguly, A., Sultana, F., Kundu, D. and Pal, A (2026), A Model based on Mixture of Weibull Distributions for Depending Competing Risks Data in the Presence of Long-term Survivors, and it’s Application to Malignant Melanoma Cancer Data, Statistics in Medicine, 45:e70466.\nBiswas, S., Ganguly, A. and Mitra, D. (2025), Reliability Analysis of Load-sharing Systems using a Flexible Model with Piecewise Linear Functions, Applied Stochastic Models in Business and Industry, 41:e2934. [Preprint]\nAgrawal, A., Ganguly, A. and Mitra, D. (2025), Modelling Competing Risks Data by a Bivariate Model with Singularity Originating from a Shock Model using the Lehmann Family of Distributions, Research in Statistics. [Preprint]\nAgrawal, A., Mitra, D. and Ganguly, A. (2024), A Model for Failure-Time Data with Two Dependent Failure Modes and Prediction of Future Failures, Quality Engineering, 37:1-14. [Preprint]\nGanguly, A., Mitra, D., Balakrishnan N. and Kundu, D. (2024), A Flexible Model based on Piecewise Linear Approximation for the Analysis of Left Truncated Right Censored Data with Covariates, and Applications to Worcester Heart Attack Study Data and Channing House Data, Statistics in Medicine, 43:233–255. \nSamanta, D., Ganguly, A., Gupta, A. and Kundu, D. (2019), On Classical and Bayesian Order Restricted Inference for Multiple Exponential Step Stress Model, Statistics, 53:177–195. [Preprint]\nSamanta, D., Kundu, D. and Ganguly, A. (2018), Order Restricted Bayesian Analysis of a Simple Step Stress Model, Sankhya, Series B., 80:195–221. [Preprint]\nKoley, A., Kundu, D. and Ganguly, A. (2017), Analysis of Type-II Hybrid Censored Competing Risks Data, Statistics, 51:1304–1325. [Preprint]\nHanagal, D., Pandey, A. and Ganguly, A. (2017), Correlated Gamma Frailty Models for Bivariate Survival Data, Communication in Statistics - Simulation and Computation, 46:3627–3644. \nSamanta, D., Ganguly, A., Kundu, D., and Mitra, S. (2017), Order Restricted Bayesian Inference for Exponential Simple Step-stress Model, Communication in Statistics - Simulation and Computation, 46:1113–1135. [Preprint]\nKundu, D., Mitra, D, and Ganguly, A. (2017), Analysis of Left Truncated Right Censored Competing Risks Data, Computational Statistics and Data Analysis, 108:12–26. [Preprint]\nGanguly, A. and Kundu, D. (2016), Analysis of Simple Step-stress Model in Presence of Competing Risks, Journal of Statistical Computation and Simulation, 86:1989–2006. [Preprint]\nGanguly, A., Kundu, D., and Mitra, S. (2015), Bayesian Analysis of Simple Step-stress Model under Weibull Lifetimes, IEEE Transaction on Reliability, 64:473–485. [Preprint]\nMitra, S., Ganguly, A., Samanta, D., and Kundu, D. (2013), On Simple Step-stress Model for Two-parameter Exponential Distribution, Statistical Methodology, 15:95–114. [Preprint]\nKundu, D., Samanta, D., Ganguly, A., and Mitra, S. (2013), Bayesian Analysis of Different Hybrid and Progressive Life Tests, Communication in Statistics - Simulation and Computation, 42:2160–2173. [Preprint]\nGanguly, A., Mitra, S., Samanta, D., and Kundu, D. (2012), Exact Inference for the Two-Parameter Exponential Distribution Under Type-II Hybrid Censoring, Journal of Statistical Planning and Inference, 142:613–625. [Preprint]\n\n\n\n\nBook\n\nKundu, D. and Ganguly, A. (2017), Analysis of Step-stress Models: Existing Results and Recent Developments, Elsevier/Academic Press, London, United Kingdom."
+  },
+  {
+    "objectID": "ma212m.html#lecture-slides",
+    "href": "ma212m.html#lecture-slides",
+    "title": "MA 212M: Mathematical Statistics",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nTopic 00: Introduction\nTopic 01: Probability\nTopic 02: Random Variable\nTopic 03: Random Vector\nTopic 04: Modes of Convergence\nTopic 05: Sampling Distributions\nTopic 06: Point Estimation\nTopic 07: Interval Estimation\nTopic 08: Testing of Hypotheses\nTopic 09: Simple Linear Regression\nTopic 10: Multiple Linear Regression\nTopic 11: Logistic and Poisson Regression"
+  },
+  {
+    "objectID": "ma212m.html#problem-sets",
+    "href": "ma212m.html#problem-sets",
+    "title": "MA 212M: Mathematical Statistics",
+    "section": "Problem Sets",
+    "text": "Problem Sets\n\nProblem Set 01\nProblem Set 02\nProblem Set 03\nProblem Set 04\nProblem Set 05\nProblem Set 06\nProblem Set 07\nProblem Set 08\nProblem Set 09\nProblem Set 10\nProblem Set 11"
+  },
+  {
     "objectID": "ma324.html",
     "href": "ma324.html",
     "title": "MA 324: Statistical Inference and Multivariate Analysis",
@@ -21,11 +56,11 @@
     "text": "Problem Sets\n\nProblem Set 01\nProblem Set 02"
   },
   {
-    "objectID": "pubs.html",
-    "href": "pubs.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ayon Ganguly",
     "section": "",
-    "text": "Papers in Refereed Journal\n\nGanguly, A., Sultana, F., Kundu, D. and Pal, A (2026), A Model based on Mixture of Weibull Distributions for Depending Competing Risks Data in the Presence of Long-term Survivors, and it’s Application to Malignant Melanoma Cancer Data, Statistics in Medicine, 45:e70466.\nBiswas, S., Ganguly, A. and Mitra, D. (2025), Reliability Analysis of Load-sharing Systems using a Flexible Model with Piecewise Linear Functions, Applied Stochastic Models in Business and Industry, 41:e2934. [Preprint]\nAgrawal, A., Ganguly, A. and Mitra, D. (2025), Modelling Competing Risks Data by a Bivariate Model with Singularity Originating from a Shock Model using the Lehmann Family of Distributions, Research in Statistics. [Preprint]\nAgrawal, A., Mitra, D. and Ganguly, A. (2024), A Model for Failure-Time Data with Two Dependent Failure Modes and Prediction of Future Failures, Quality Engineering, 37:1-14. [Preprint]\nGanguly, A., Mitra, D., Balakrishnan N. and Kundu, D. (2024), A Flexible Model based on Piecewise Linear Approximation for the Analysis of Left Truncated Right Censored Data with Covariates, and Applications to Worcester Heart Attack Study Data and Channing House Data, Statistics in Medicine, 43:233–255. \nSamanta, D., Ganguly, A., Gupta, A. and Kundu, D. (2019), On Classical and Bayesian Order Restricted Inference for Multiple Exponential Step Stress Model, Statistics, 53:177–195. [Preprint]\nSamanta, D., Kundu, D. and Ganguly, A. (2018), Order Restricted Bayesian Analysis of a Simple Step Stress Model, Sankhya, Series B., 80:195–221. [Preprint]\nKoley, A., Kundu, D. and Ganguly, A. (2017), Analysis of Type-II Hybrid Censored Competing Risks Data, Statistics, 51:1304–1325. [Preprint]\nHanagal, D., Pandey, A. and Ganguly, A. (2017), Correlated Gamma Frailty Models for Bivariate Survival Data, Communication in Statistics - Simulation and Computation, 46:3627–3644. \nSamanta, D., Ganguly, A., Kundu, D., and Mitra, S. (2017), Order Restricted Bayesian Inference for Exponential Simple Step-stress Model, Communication in Statistics - Simulation and Computation, 46:1113–1135. [Preprint]\nKundu, D., Mitra, D, and Ganguly, A. (2017), Analysis of Left Truncated Right Censored Competing Risks Data, Computational Statistics and Data Analysis, 108:12–26. [Preprint]\nGanguly, A. and Kundu, D. (2016), Analysis of Simple Step-stress Model in Presence of Competing Risks, Journal of Statistical Computation and Simulation, 86:1989–2006. [Preprint]\nGanguly, A., Kundu, D., and Mitra, S. (2015), Bayesian Analysis of Simple Step-stress Model under Weibull Lifetimes, IEEE Transaction on Reliability, 64:473–485. [Preprint]\nMitra, S., Ganguly, A., Samanta, D., and Kundu, D. (2013), On Simple Step-stress Model for Two-parameter Exponential Distribution, Statistical Methodology, 15:95–114. [Preprint]\nKundu, D., Samanta, D., Ganguly, A., and Mitra, S. (2013), Bayesian Analysis of Different Hybrid and Progressive Life Tests, Communication in Statistics - Simulation and Computation, 42:2160–2173. [Preprint]\nGanguly, A., Mitra, S., Samanta, D., and Kundu, D. (2012), Exact Inference for the Two-Parameter Exponential Distribution Under Type-II Hybrid Censoring, Journal of Statistical Planning and Inference, 142:613–625. [Preprint]\n\n\n\n\nBook\n\nKundu, D. and Ganguly, A. (2017), Analysis of Step-stress Models: Existing Results and Recent Developments, Elsevier/Academic Press, London, United Kingdom."
+    "text": "Bio\nI am an assistant professor at the Department of Mathematics, Indian Institute of Technology Guwahati. Before moving to Guwahati, I worked as assistant professor at Indian Institute of Information Technology, Allahabad. I did my PhD in Statistics from the Department of Mathematics and Statistics, Indian Institute of Technology Kanpur, under the supervision of Prof. Debasis Kundu and Prof. Sharmishtha Mitra.\n\n\n\nResearch Interests\n\nSurvival Analysis & Reliability Theory\nFinite Mixture Distributions\nFrailty Models\nCompeting Risks\nAccelerated Life Tests"
   },
   {
     "objectID": "teaching.html",
@@ -40,48 +75,6 @@
     "title": "Work Experiences",
     "section": "",
     "text": "Assistant Professor at the Department of Mathematics, Indian Institute of Technology Guwahati from June, 2016 to present.\nAssistant Professor (on contract) at the Department of Applied Sciences, Indian Institute of Information Technology Allahabad from January, 2016 to June 2016.\nVisiting Faculty (Adhoc) at the Department of Applied Sciences, Indian Institute of Information Technology Allahabad from December, 2014 to January, 2016.\nPost-doctoral fellow (Dr. DS Kothari Fellowship form UGC) at the Department of Statistics, Sabitribai Phule Pune University, Pune from September 2013 to December, 2014.\nVisiting Scientist at Indian Statistical Institute, Chennai from April, 2013 to September, 2013."
-  },
-  {
-    "objectID": "acad.html",
-    "href": "acad.html",
-    "title": "Academics",
-    "section": "",
-    "text": "Education\n\nPhD in Statistics (2013), Department of Mathematics and Statistics, IIT Kanpur, Kanpur - 208 016, India. Thesis\nMaster of science in Statistics (2008), Department of Mathematics and Statistics, IIT Kanpur, Kanpur - 208 016, India.\nBachelor of science in Statistics (2006), Department of Statistics, Maulana Azad College, Kolkata - 700 013, India.\nHigher Secondary Examination (2003), West Bengal Council of Higher Secondary Examination, India.\nSecondary (Madhyamik) Examination (2001), West Bengal Board of Secondary Education, India.\n\n\n\n\nWork Experiences\n\nAssistant Professor at the Department of Mathematics, Indian Institute of Technology Guwahati from June, 2016 to present.\nAssistant Professor (on contract) at the Department of Applied Sciences, Indian Institute of Information Technology Allahabad from January, 2016 to June 2016.\nVisiting Faculty (Adhoc) at the Department of Applied Sciences, Indian Institute of Information Technology Allahabad from December, 2014 to January,\n\n\n\nPost-doctoral fellow (Dr. DS Kothari Fellowship form UGC) at the Department of Statistics, Sabitribai Phule Pune University, Pune from September 2013 to December, 2014.\nVisiting Scientist at Indian Statistical Institute, Chennai from April, 2013 to September, 2013.\n\n\n\n\nEditorial Activities\n\nAssociate Editor of Mathematical Methods of Statistics, Springer Nature, from 2025 to present."
-  },
-  {
-    "objectID": "ma212m.html#lecture-slides",
-    "href": "ma212m.html#lecture-slides",
-    "title": "MA 212M: Mathematical Statistics",
-    "section": "Lecture Slides",
-    "text": "Lecture Slides\n\nTopic 00: Introduction\nTopic 01: Probability\nTopic 02: Random Variable\nTopic 03: Random Vector\nTopic 04: Modes of Convergence\nTopic 05: Sampling Distributions\nTopic 06: Point Estimation\nTopic 07: Interval Estimation\nTopic 08: Testing of Hypotheses\nTopic 09: Simple Linear Regression\nTopic 10: Multiple Linear Regression\nTopic 11: Logistic and Poisson Regression"
-  },
-  {
-    "objectID": "ma212m.html#problem-sets",
-    "href": "ma212m.html#problem-sets",
-    "title": "MA 212M: Mathematical Statistics",
-    "section": "Problem Sets",
-    "text": "Problem Sets\n\nProblem Set 01\nProblem Set 02\nProblem Set 03\nProblem Set 04\nProblem Set 05\nProblem Set 06\nProblem Set 07\nProblem Set 08\nProblem Set 09\nProblem Set 10\nProblem Set 11"
-  },
-  {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
-    "section": "",
-    "text": "PhD in Statistics (2013), Department of Mathematics and Statistics, IIT Kanpur, Kanpur - 208 016, India. Thesis\nMaster of science in Statistics (2008), Department of Mathematics and Statistics, IIT Kanpur, Kanpur - 208 016, India.\nBachelor of science in Statistics (2006), Department of Statistics, Maulana Azad College, Kolkata - 700 013, India.\nHigher Secondary Examination (2003), West Bengal Council of Higher Secondary Examination, India.\nSecondary (Madhyamik) Examination (2001), West Bengal Board of Secondary Education, India."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ayon Ganguly",
-    "section": "",
-    "text": "Bio\nI am an assistant professor at the Department of Mathematics, Indian Institute of Technology Guwahati. Before moving to Guwahati, I worked as assistant professor at Indian Institute of Information Technology, Allahabad. I did my PhD in Statistics from the Department of Mathematics and Statistics, Indian Institute of Technology Kanpur, under the supervision of Prof. Debasis Kundu and Prof. Sharmishtha Mitra.\n\n\n\nResearch Interests\n\nSurvival Analysis & Reliability Theory\nFinite Mixture Distributions\nFrailty Models\nCompeting Risks\nAccelerated Life Tests"
-  },
-  {
-    "objectID": "studs.html",
-    "href": "studs.html",
-    "title": "Students",
-    "section": "",
-    "text": "PhD Students\n\nDr. Shilpi Biswas (July 2019 - October 2025).\nArea: Statistical modeling of load sharing systems.\n\nMr. Sourav Saha (July 2022 - Present).\nArea: Statistical analysis of bivariate left truncated right censored data.\nMr. Arpan Sanyal (July 2023 - Present).\nArea: AUC estimation for a ROC.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSc Students\n\nMs. Shivika Rani (2025).\nProject Title: GLMs: Bridging linear and non-linear models. (Reading project)\nMr. Aniket Chaudhary (2025).\nProject Title: Central limit theorems. (Reading project)\nMr. Arvind Kumar (2024).\nProject Title: Survival analysis using Cox regression model. (Reading project)\nMr. Saneilie Keyho (2024).\nProject Title: Kaplan-meier estimator and its application. (Reading project)\nMr. Nilmadhab Tewari (2023).\nProject Title: Theoretical foundations and properties of copula. (Reading project)\nMs. Priyanka Singh (2023).\nProject Title: On one shot device testing.\nMs. Deepika (2020).\nProject Title: Lifetime data analysis. (Reading project)\nMr. Arijit Roy (2018).\nProject Title: Discriminating among different models for step-stress life test.\nMr. Santanu Datta (2017).\nProject Title: Bayesian analysis of simple step-stress tampered random variable model under generalized exponential lifetimes.\n\n\n\n\nBTech Students\n\nMr. Aadi Amit Poddar and Mr. Khushhal Bansal (2026-2027).\nProject Title: Joint Modeling of Bi-variate degradation Signals and Time-to-event Data.\nMs. Ramineni Hardhika and Mohd Fahad Javed (2025-2026).\nProject Title: Application of Bayesian Logistic Regression to Biomedical Data for Modelling Heart Attack Risk.\nMr. Lakshya Kohli and Mr. Daksh Raj (2024 - 2025).\nProject Title: Bayesian analysis of left truncated and right censored data using splines.\nMr. Harshul Gupta and Mr. Harsh (2023 - 2024).\nProject Title: Improving Bayesian estimation for censored data with Weibull model using modified SMOTE.\nMr. Dasari Sainaren and Mr. Mandala Yatish Ramkumar (2022 - 2023).\nProject Title: Bayesian sampling plan for the Weibull distribution with generalized Type-I hybrid censoring scheme.\nMr. Kaushal Chhalani and Mr. Manav Chirania (2021 - 2022).\nProject Title: Bayesian analysis of left truncated right censored data in the presence of dependent competing risks.\nMr. Aakash Agarwal (2019 - 2020).\nProject Title: Step-stress analysis in the presence of lag effect for log-normal lifetimes.\nMr. Abhishek Dogra and Mr. Animesh Kumar (2019 - 2020).\nProject Title: Analysis of left truncated right censored data in the presence of dependent competing risks.\nMr. Akash Mahalik and Mr. Tarun Genwa (2018 - 2019).\nProject Title: Reliability dimention in review platform Yelp."
   },
   {
     "objectID": "ma6056.html",
@@ -116,7 +109,21 @@
     "href": "ma6056.html#course-materials",
     "title": "MA 212M: Understanding Statistical Learning Theory",
     "section": "Course Materials",
-    "text": "Course Materials\nTo download lecture slides on statistical inference and linear regression, please click here\n\nLecture Slides\n\nTopic 00: Introduction\nTopic 01: Linear Regression (A Review)\nTopic 02: Statistical Learning (An Overview)\nTopic 03: Model Selection in Linear Regression\nTopic 04: Bootstrap\nTopic 05: Classification\nTopic 06: Generalized Linear Models\nTopic 07: Non-linear Models"
+    "text": "Course Materials\nTo download lecture slides on statistical inference and linear regression, please click here\n\nLecture Slides\n\nTopic 00: Introduction\nTopic 01: Linear Regression (A Review)\nTopic 02: Statistical Learning (An Overview)\nTopic 03: Model Selection in Linear Regression\nTopic 04: Bootstrap\nTopic 05: Classification\nTopic 06: Generalized Linear Models\nTopic 07: Non-linear Models\nTopic 08: Tree-based Methods"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "PhD in Statistics (2013), Department of Mathematics and Statistics, IIT Kanpur, Kanpur - 208 016, India. Thesis\nMaster of science in Statistics (2008), Department of Mathematics and Statistics, IIT Kanpur, Kanpur - 208 016, India.\nBachelor of science in Statistics (2006), Department of Statistics, Maulana Azad College, Kolkata - 700 013, India.\nHigher Secondary Examination (2003), West Bengal Council of Higher Secondary Examination, India.\nSecondary (Madhyamik) Examination (2001), West Bengal Board of Secondary Education, India."
+  },
+  {
+    "objectID": "studs.html",
+    "href": "studs.html",
+    "title": "Students",
+    "section": "",
+    "text": "PhD Students\n\nDr. Shilpi Biswas (July 2019 - October 2025).\nArea: Statistical modeling of load sharing systems.\n\nMr. Sourav Saha (July 2022 - Present).\nArea: Statistical analysis of bivariate left truncated right censored data.\nMr. Arpan Sanyal (July 2023 - Present).\nArea: AUC estimation for a ROC.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSc Students\n\nMs. Shivika Rani (2025).\nProject Title: GLMs: Bridging linear and non-linear models. (Reading project)\nMr. Aniket Chaudhary (2025).\nProject Title: Central limit theorems. (Reading project)\nMr. Arvind Kumar (2024).\nProject Title: Survival analysis using Cox regression model. (Reading project)\nMr. Saneilie Keyho (2024).\nProject Title: Kaplan-meier estimator and its application. (Reading project)\nMr. Nilmadhab Tewari (2023).\nProject Title: Theoretical foundations and properties of copula. (Reading project)\nMs. Priyanka Singh (2023).\nProject Title: On one shot device testing.\nMs. Deepika (2020).\nProject Title: Lifetime data analysis. (Reading project)\nMr. Arijit Roy (2018).\nProject Title: Discriminating among different models for step-stress life test.\nMr. Santanu Datta (2017).\nProject Title: Bayesian analysis of simple step-stress tampered random variable model under generalized exponential lifetimes.\n\n\n\n\nBTech Students\n\nMr. Aadi Amit Poddar and Mr. Khushhal Bansal (2026-2027).\nProject Title: Joint Modeling of Bi-variate degradation Signals and Time-to-event Data.\nMs. Ramineni Hardhika and Mohd Fahad Javed (2025-2026).\nProject Title: Application of Bayesian Logistic Regression to Biomedical Data for Modelling Heart Attack Risk.\nMr. Lakshya Kohli and Mr. Daksh Raj (2024 - 2025).\nProject Title: Bayesian analysis of left truncated and right censored data using splines.\nMr. Harshul Gupta and Mr. Harsh (2023 - 2024).\nProject Title: Improving Bayesian estimation for censored data with Weibull model using modified SMOTE.\nMr. Dasari Sainaren and Mr. Mandala Yatish Ramkumar (2022 - 2023).\nProject Title: Bayesian sampling plan for the Weibull distribution with generalized Type-I hybrid censoring scheme.\nMr. Kaushal Chhalani and Mr. Manav Chirania (2021 - 2022).\nProject Title: Bayesian analysis of left truncated right censored data in the presence of dependent competing risks.\nMr. Aakash Agarwal (2019 - 2020).\nProject Title: Step-stress analysis in the presence of lag effect for log-normal lifetimes.\nMr. Abhishek Dogra and Mr. Animesh Kumar (2019 - 2020).\nProject Title: Analysis of left truncated right censored data in the presence of dependent competing risks.\nMr. Akash Mahalik and Mr. Tarun Genwa (2018 - 2019).\nProject Title: Reliability dimention in review platform Yelp."
   },
   {
     "objectID": "talks.html",
@@ -124,12 +131,5 @@
     "title": "Talks",
     "section": "",
     "text": "Invited Talks\n\nJul 2026 | Advanced in Statistics and Data Sciences (In honor of Professor Debasis Kundu)\nKanpur, India | [Slides PDF]\nJul 2026 | Recent Advances in Applied Mathematics (Minisymposium on Reliability Theory)\nHyderabad, India | [Slides PDF]\n\n\n\n\nNov 2023 | National Seminar on Recent Trends in Statistics\nShillong, India | [Slides PDF]\nDec 2022 | International Indian Statistical Association Conference\nBengaluru, India | [Slides PDF]\nDec 2022 | International Workshop on Reliability Theory and Survival Analysis (Review Talk)\nKolkata, India | [Slides PDF]\nMar 2017 | National Conference on Recent Advancement in Statistics for Society and their Applications\nPune, India | [Slides PDF]\n\n\n\n\n\n\nContributed Talks\n\nJan 2026 | 1st International Conference on Statistics, Data Science and Optimization\nAgartala, India | [Slides PDF]\nJun 2025 | 16th International OSD Conference on Order in Statistical Data\nAachen, Germany | [Slides PDF]\nMay 2023 | 12th International Conference on Mathematical Methods in Reliability\nMurcia, Spain | [Slides PDF]\nJun 2019 | 11th International Conference on Mathematical Methods in Reliability\nHong Kong | [Slides PDF]\nJul 2017 | 10th International Conference on Mathematical Methods in Reliability\nGrenoble, France | [Slides PDF]\nDec 2016 | International Conference on Mathematics, Statistics & Information Technology\nTanta, Egypt | [Slides PDF]"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Ayon Ganguly\nEmail: aganguly@iitg.ac.in, ayonganguly@gmail.com\nPhone: +91 361 258 2639\n\n\n\n\nMailing Address\nDepartment of Mathematics\nIndian Institute of Technology Guwahati\nGuwahati-781 039\nAssam, India\n\n\n\n\n\nOffice Address\nE1-210, Department of Mathematics\nIndian Institute of Technology Guwahati\nGuwahati-781 039\nAssam, India"
   }
 ]
