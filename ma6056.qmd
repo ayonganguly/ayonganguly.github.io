@@ -52,3 +52,8 @@ To download lecture slides on statistical inference and linear regression, pleas
 
 <!-- ## Problem Sets -->
 <!-- * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3) -->
+
+## Class Presentation (Project I)
+* Please [click here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDmSwlsY_-vTLnvJZ-3-MovARgDqlbh8_-ZC5rjCB5l33E?e=EWjZkp) to download guidelines, group-wise topics, and presentation schedule.
+* Please [click here](https://iitgoffice-my.sharepoint.com/:u:/g/personal/aganguly_iitg_ac_in/IQCziQ-EvIz5Rox5LdgDzWKuAV65yPQBOcZvvsHGjkjkzc8?e=IlZEKy) to download beamer template for preparing your presentation.
+
