@@ -20,7 +20,7 @@ about:
 
 # Bio
 
-I am an assistant professor at the [Department of Mathematics](https://www.iitg.ac.in/maths/){target="_blank"}, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/){target="_blank"}. Before moving
+I am an associate professor at the [Department of Mathematics](https://www.iitg.ac.in/maths/){target="_blank"}, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/){target="_blank"}. Before moving
 to Guwahati, I worked as assistant professor at [Indian Institute of Information
 Technology, Allahabad](https://www.iiita.ac.in/){target="_blank"}. I did my PhD
 in Statistics from the [Department of Mathematics and
