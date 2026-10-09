@@ -50,6 +50,7 @@ To download lecture slides on statistical inference and linear regression, pleas
 * [Topic 07: Non-linear Models](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDOefOeWSWiRaiiDWR9fjP2ATCZB-4c-X09BBk3QftPqUw?e=gWcVQn)
 * [Topic 08: Tree-based Methods](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQCLQGF4LugUSYPp3dTSlm9xAfgCndI18A_7NcEuGTCro_8?e=aeFIbS)
 * [Topic 09: Boosting Methods](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDd9MQAYPcMQbL_weDjcz-fATpJ85-1yhZc01XxKgp36E4?e=h3XZtU)
+* [Topic 10: Support Vector Machines](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQB5IRYkeOf9SJJwlReLHFdNAaeLdYm_OMlKg-eXgUIb_88?e=Zsa9gk)
 
 <!-- ## Problem Sets -->
 <!-- * [Problem Set 01](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAYHg_deEoBT4fK6NXm7iU-AfJS7AstjYUhu3GAOoCCQCA?e=wt4tr3) -->
