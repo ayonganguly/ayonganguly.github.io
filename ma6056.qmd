@@ -1,5 +1,5 @@
 ---
-title: "MA 212M: Understanding Statistical Learning Theory"
+title: "MA 6056: Understanding Statistical Learning Theory"
 ---
 
 ## Course Syllabus
@@ -39,7 +39,7 @@ The breakdown of the evaluation components and their respective weights is as fo
 
 To download lecture slides on statistical inference and linear regression, please [click here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBb1jnD_ftXR7mB7sR_oJCGAQ1hvvSqBu48G9HHCVqI1Ms?e=fNhWKX)
 
-### Lecture Slides
+## Lecture Slides
 * [Topic 00: Introduction](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQBvPOjpiacRQoIVijlrtGbYAdH0OHZUo9D-PH-HXDJzhuI?e=HCaCmA)
 * [Topic 01: Linear Regression (A Review)](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQD8pgQy6-vjSLMwE5GK3F9-AWaYRkuiqVw8C2wMO1hQI24?e=2xKB7k)
 * [Topic 02: Statistical Learning (An Overview)](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQAsam6ZTlAKSaIxIbA0AxQzAe-dfhAkmPcv78x4PVpAoYg?e=6tjwl9)
@@ -51,6 +51,10 @@ To download lecture slides on statistical inference and linear regression, pleas
 * [Topic 08: Tree-based Methods](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQCLQGF4LugUSYPp3dTSlm9xAfgCndI18A_7NcEuGTCro_8?e=aeFIbS)
 * [Topic 09: Boosting Methods](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDd9MQAYPcMQbL_weDjcz-fATpJ85-1yhZc01XxKgp36E4?e=h3XZtU)
 * [Topic 10: Support Vector Machines](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQB5IRYkeOf9SJJwlReLHFdNAaeLdYm_OMlKg-eXgUIb_88?e=Zsa9gk)
+* [Topic 11: k Nearest Neighbor](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDz5n8r3Dm1RY8OoNCqDQf2Aa2c3SFJPxddGIs5teuFJdI?e=uzv22n) 
+
+## Further Reading
+* [DANN](https://ieeexplore.ieee.org/document/506411)
 
 ## Model Solutions to Examinations
 * [Mid-semester Examination](https://iitgoffice-my.sharepoint.com/:b:/g/personal/aganguly_iitg_ac_in/IQDCxECEbbV7R6m9ZR6rdpdlAQry7TQS4z1kUeZgDkWlBHk?e=WimX2b)
